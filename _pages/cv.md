@@ -10,18 +10,16 @@ redirect_from:
 {% include base_path %}
 ## Education
 
-**Middle East Technical University**  
-*Expected: 2020-2024*  
-Bachelor's Degree in Mathematics
+**Middle East Technical University** | 2020-2024 (expected)  
+_Bachelor's Degree in Mathematics_
 
-Relevant coursework:
+**Relevant coursework:**
 - MATH 381 - Numerical Analysis I
 - MATH 382 - Numerical Analysis II
 - MATH 401 - Introduction to Optimization
 
-**TDV Baku Turkish High School**  
-*2014-2019*  
-High School Diploma
+**TDV Baku Turkish High School** | 2014-2019  
+_High School Diploma_
 
 ## Skills
 
@@ -30,7 +28,7 @@ High School Diploma
 
 ## Languages
 
-- Azerbaijani: Native Proficiency
-- Turkish: Bilingual Proficiency
-- English: Professional Working Proficiency
+- **Azerbaijani**: native proficiency
+- **Turkish**: bilingual proficiency
+- **English**: professional working proficiency
 
