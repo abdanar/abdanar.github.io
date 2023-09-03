@@ -1,5 +1,5 @@
 ---
-title: "Teaching Example 1"
+title: "Numerical Analysis 1"
 excerpt: "This is an example of a teaching post."
 ---
 
