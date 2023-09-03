@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Anar Abdullayev"
+title: "Homepage"
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 <h1 align="center">Welcome</h1>
 
