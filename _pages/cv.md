@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# Resume
-
 ## Education
 
 **Middle East Technical University**  
