@@ -7,5 +7,5 @@ redirect_from:
   - /contact.html
 ---
 
-Please don't hesitate to contact me
+Please don't hesitate to contact me.  
 **email**: abdullaanar172@gmail.com
