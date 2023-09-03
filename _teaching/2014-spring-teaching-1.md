@@ -1,5 +1,6 @@
 ---
 title: "Teaching experience 1"
+excerpt: "This is an example of a teaching post."
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
