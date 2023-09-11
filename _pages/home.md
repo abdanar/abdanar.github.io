@@ -9,4 +9,4 @@ redirect_from:
 ---
 <h1 align="center">Welcome</h1>
 
-Below are the things I am currently studying or working on. If you would like to discuss any of them, I would be even happier.
+I am deeply interested in optimal control theory and have recently started to read _Optimal Control Theory: An Introduction by **Donald E. Kirk**_. I started reading from Chapter 4 (The Calculus of Variations) instead of starting from the beginning. Due to the heavy course load, I may not be able to continue reading, but I hope I can manage it.
