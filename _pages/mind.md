@@ -7,5 +7,5 @@ redirect_from:
 ---
 Life Lessons by **Mikhael Gromov**  
 - Honesty
-- Keep your mouth shut unless you have something non-trivial to say. 
+- Keep your mouth shut unless you have something non-trivial to say
 - Think, focus, don't just observe
