@@ -3,8 +3,7 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 redirect_from: 
-  - /contact/
-  - /contact.html
+  - /contact
 ---
 
 Please don't hesitate to contact me.  
