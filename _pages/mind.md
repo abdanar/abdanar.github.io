@@ -12,9 +12,3 @@ redirect_from:
 **Possible answer:** It may involve integer programming or combinatorial optimization techniques. Due to the limited search space of prime integers, solving the optimization problem is significantly more challenging than for common optimization problems.  
 **Motivation**: Linear Equations in Primes by Ben Green and Terence Tao.
    
-
-
-Life Lessons by **Mikhael Gromov (Михаи́л Леони́дович Гро́мов)**  
-- Honesty
-- Keep your mouth shut unless you have something non-trivial to say
-- Think, focus, don't just observe
