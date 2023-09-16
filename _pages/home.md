@@ -9,4 +9,9 @@ redirect_from:
 ---
 <h1 align="center">Welcome</h1>
 
-I am deeply interested in optimal control theory and have recently started to read _Optimal Control Theory: An Introduction by **Donald E. Kirk**_. I started reading from Chapter 4 (The Calculus of Variations) instead of starting from the beginning. Due to the heavy course load, I may not be able to continue reading, but I hope I can manage it.
+The following are possible courses I plan to take for the upcoming fall semester.  
+* MATH 341 - GRAPH THEORY I  
+* MATH 487 - APPLIED MATHEMATICS I
+* MATH 501 - ANALYSIS
+* IAM 566 - NUMERICAL OPTIMIZATION
+* IAM 567 - MATHEMATICAL MODELLING
