@@ -19,38 +19,3 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
-
-<style>
-  /* Style for the rounded search bar */
-  form {
-    display: flex;
-    align-items: center;
-    border: 2px solid #ccc;
-    border-radius: 25px; /* Adjust the radius to make it more or less rounded */
-    overflow: hidden;
-    max-width: 300px; /* Adjust the width as needed */
-  }
-
-  #search-input {
-    flex-grow: 1;
-    border: none;
-    outline: none;
-    padding: 10px;
-    border-radius: 25px; /* Should match the form's border-radius */
-  }
-
-  button[type="submit"] {
-    background-color: #007bff; /* Button background color */
-    color: #fff; /* Button text color */
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-    border-radius: 25px; /* Should match the form's border-radius */
-  }
-</style>
-
-<!-- Search Bar -->
-<form action="/search" method="get">
-  <input type="text" name="q" id="search-input" placeholder="Search...">
-  <button type="submit">Search</button>
-</form>
