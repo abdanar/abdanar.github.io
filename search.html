@@ -1,0 +1,28 @@
+---
+layout: default
+title: Search Results
+---
+
+<h1>Search Results</h1>
+
+{% assign search_query = site.search_query | default: "" %}
+{% assign search_results = "" | split: "|" %}
+
+{% for page in site.pages %}
+  {% if page.title and page.content %}
+    {% assign content = page.title | append: " " | append: page.content %}
+    {% if content | search: search_query %}
+      {% assign search_results = search_results | push: page %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if search_results.size > 0 %}
+  <ul>
+    {% for result in search_results %}
+      <li><a href="{{ result.url }}">{{ result.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No results found for "{{ search_query }}".</p>
+{% endif %}
