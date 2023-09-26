@@ -37,5 +37,5 @@ _High School Diploma_
 
 - **IELTS**  
 _Score:_ 8.0  
-**Listening:** 8.5; **Reading:** 8.0; **Writing:** 7.0; **Speaking:** 7.5
+**Listening:** 8.5 **Reading:** 8.0 **Writing:** 7.0 **Speaking:** 7.5
 
