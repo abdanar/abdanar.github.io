@@ -32,3 +32,10 @@ _High School Diploma_
 - **Turkish**: bilingual proficiency
 - **English**: professional working proficiency
 
+## Test Scores
+
+
+- **IELTS**  
+_Score_: 8.0  
+**Listening:** 8.5; **Reading:** 8.0; **Writing:** 7.0; **Speaking:** 7.5
+
