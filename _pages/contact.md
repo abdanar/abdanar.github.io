@@ -7,4 +7,7 @@ redirect_from:
 ---
 
 Please don't hesitate to contact me.  
-**email**: abdullaanar172@gmail.com
+**Email addresses**
+- abdullayev.anar@metu.edu.tr
+- abdullaanar172@gmail.com
+
