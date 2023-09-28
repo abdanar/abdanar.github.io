@@ -7,7 +7,8 @@ redirect_from:
   - /home/
   - /home.html
 ---
-<h1 align="center">Welcome</h1>
+
+Below is my schedule for the fall semester.
 
 |             |    Monday    |  Tuesday | Wednesday | Thursday | Friday |
 |:-----------:|:------------:|:--------:|:---------:|:--------:|:------:|
