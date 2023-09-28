@@ -24,6 +24,8 @@ Below is my schedule for the fall semester.
 | **17:40-18:30** |              |          | MUS 331   |          |        |
 
 
+
+
 **MATH 420** - Point-Set Topology  
 **MATH 487** - Applied Mathematics I  
 **IAM 530** - Elements of Probability and Statistics  
