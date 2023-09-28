@@ -24,11 +24,11 @@ My schedule for the fall semester is as follows:
 | **17:40-18:30** |              |          | MUS 331   |          |        |
 
 Below, you will find detailed information about the courses in which I am currently enrolled.  
-- **MATH 420** - [Point-Set Topology](https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360420)    
-- **MATH 487** - [Applied Mathematics I](https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360487)  
-- **IAM 530** - [Elements of Probability and Statistics ](https://catalog.metu.edu.tr/course.php?course_code=9700530)   
-- **IAM 567** - [Mathematical Modelling ](https://catalog.metu.edu.tr/course.php?course_code=9700567)   
-- **MUS 331** - [History of Jazz](https://catalog.metu.edu.tr/course.php?course_code=6510331)    
+- **MATH 420** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360420" target = "blank"> Point-Set Topology </a>      
+- **MATH 487** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360487" target = "blank"> Applied Mathematics I </a>    
+- **IAM 530** - <a href="https://catalog.metu.edu.tr/course.php?course_code=9700530" target = "blank"> Elements of Probability and Statistics </a>    
+- **IAM 567** - <a href="https://catalog.metu.edu.tr/course.php?course_code=9700567" target = "blank"> Mathematical Modelling </a>     
+- **MUS 331** - <a href="https://catalog.metu.edu.tr/course.php?course_code=6510331" target = "blank"> History of Jazz </a>     
 
 
 
