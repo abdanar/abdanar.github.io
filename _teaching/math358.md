@@ -8,4 +8,7 @@ venue: "METU, Mathematics Department"
 date: 2023-10-04
 location: "Ankara, Turkey"
 ---
-<!---The main idea of numerical analysis is to find a numerical approximation of anything you can think of. Prerequisites for this field of study are calculus and linear algebra for beginners. Programming languages should be known to validate your theoretical results. MATLAB, Python, Julia, and a few others are available as options for writing code, but I will primarily be using Python for our coding exercises and examples.--->
+**Time:** Every week from 12:40 to 14:30  
+**Location:** 
+
+In these recitation sessions, my primary goal is to help you develop a grasp of the concepts and techniques discussed in the main lectures. I will focus on problem-solving and provide additional exercises to enhance your understanding of the covered material. Below you will find exercise sheets corresponding to each recitation session. I aim to cover as many problems as possible during our sessions. However, if time constraints prevent me from solving all the exercises, I encourage you to work on them as independent exercises. If you encounter any questions or difficulties while working on the exercises, please feel free to reach out to me via email, specifying the problem number, and I will do my best to assist you.
