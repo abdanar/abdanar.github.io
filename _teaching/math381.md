@@ -1,9 +1,9 @@
 ---
-title: "none"
+title: "MATH 358(Partial Differential Equations)"
 excerpt: "This is an example of a teaching post."
 collection: teaching
-type: "Workshop"
-permalink: /teaching/math381
+type: "Recitation"
+permalink: /teaching/math358
 venue: "METU, Mathematics Department"
 date: 2023-01-01
 location: "Ankara, Turkey"
