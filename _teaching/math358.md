@@ -1,6 +1,6 @@
 ---
-title: "MATH 358 (Partial Differential Equations)"
-excerpt: "This is an example of a teaching post."
+title: "MATH 358"
+excerpt: "Partial Differential Equations"
 collection: teaching
 type: "Recitation"
 permalink: /teaching/math358
