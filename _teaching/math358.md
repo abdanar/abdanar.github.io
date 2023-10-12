@@ -20,7 +20,7 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 ## Week 1
 
 **Notes:** Find the notes on integral curves and vector fields here: <a href="https://drive.google.com/file/d/1Lmumw0LpLad9v0GnukLkN3oQg2x_T6Yw/view?usp=sharing" target="_blank">Link to Notes</a>  
-**Exercise Sheet:** Access the exercise sheet for Week 1 here: <a href="https://drive.google.com/file/d/16njBIzgrSMhxvkJbyNVBfHHtOoA0RERc/view?usp=drive_link" target="_blank">Link to Exercise Sheet</a>  
+**Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/16njBIzgrSMhxvkJbyNVBfHHtOoA0RERc/view?usp=drive_link" target="_blank">Link to Exercise Sheet</a>  
 **Answer Key for Recitation 1:** You can find the answer key to the exercise sheet here: <a href="https://drive.google.com/file/d/12KJax99hvxxeov_NDr_YOZSqZfYb0x9G/view?usp=drive_link" target="_blank">Link to Answer Key</a>
 
 
