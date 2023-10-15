@@ -32,5 +32,5 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 
 I plan to solve the problems in Partial Differential Equations by Dr. Rajen Kumar Sinha and upload the solutions. However, I may not be able to upload them immediately after you finish the topics discussed in each module's corresponding lecture problems. You can find the solutions below.
 
-### Module 2: First-order partial differential equations
+## Module 2: First-order partial differential equations
 **Lecture 1:** First-order partial differential equations 
