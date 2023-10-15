@@ -26,4 +26,6 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 ## Week 2
  
 **Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1UA05Iq0odcIQVAKDr6KOvdx5GXJ1GOb0/view?usp=sharing" target="_blank">Link to Exercise Sheet</a>  
+**Answer Key for Recitation 2:** You can find the answer key to the exercise sheet here: <a href="https://drive.google.com/file/d/1uWMbP7LGATH7UV9A-rkkoKIbYynqQZ8O/view?usp=sharing" target="_blank">Link to Answer Key</a>
+
 
