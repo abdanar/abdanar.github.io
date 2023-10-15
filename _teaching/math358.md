@@ -27,5 +27,10 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
  
 **Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1UA05Iq0odcIQVAKDr6KOvdx5GXJ1GOb0/view?usp=sharing" target="_blank">Link to Exercise Sheet</a>  
 **Answer Key for Recitation 2:** You can find the answer key to the exercise sheet here: <a href="https://drive.google.com/file/d/1uWMbP7LGATH7UV9A-rkkoKIbYynqQZ8O/view?usp=sharing" target="_blank">Link to Answer Key</a>
+  
+  
 
+I plan to solve the problems in Partial Differential Equations by Dr. Rajen Kumar Sinha and upload the solutions. However, I may not be able to upload them immediately after you finish the topics discussed in each module's corresponding lecture problems. You can find the solutions below.
 
+### Module 2: First-order partial differential equations
+**Lecture 1:** First-order partial differential equations 
