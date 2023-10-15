@@ -4,7 +4,7 @@ excerpt: "Partial Differential Equations"
 collection: teaching
 type: "Recitation"
 permalink: /teaching/math358
-venue: "METU, Mathematics Department"
+venue: "Department of Mathematics, METU"
 date: 2023-10-04
 location: "Ankara, Turkey"
 ---
