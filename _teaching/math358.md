@@ -35,7 +35,7 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 
 ## Week 4
  
-**Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1buArJsUQrkee1GpFnlvYSiKhaOICTKbn/view?usp=sharing" target="_blank">Link to Exercise Sheet</a>  
+**Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1B3X8sNrUgDD0gikyFmNykiU81skBsOGy/view?usp=sharing" target="_blank">Link to Exercise Sheet</a>  
 **Answer Key for Recitation 4:** 
 
 &nbsp;
