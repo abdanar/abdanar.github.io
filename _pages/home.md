@@ -12,7 +12,7 @@ redirect_from:
 
 **Dear MATH 358 Students,**
 
-I hope you are doing well and staying engaged in your studies. I want to inform you about an upcoming practice midterm exam scheduled for 12 November (Sunday) at 17:40 in room M203.
+I hope you are doing well and staying engaged in your studies. I am writing to inform you about an upcoming practice midterm exam scheduled for 12 November (Sunday) at 17:40 in room M203.
 
 **Details of the Practice Midterm Exam:**
 
@@ -22,7 +22,7 @@ I hope you are doing well and staying engaged in your studies. I want to inform 
 **Number of Questions:** 5  
 
 **Purpose of the Practice Exam:**  
-The primary objective of this practice midterm is to familiarize you with possible question types and assess your time management skills when solving problems. Engaging in this practice will help strengthen your problem-solving abilities and enhance your readiness for the upcoming exam.
+The primary objective of this practice midterm is to familiarize you with possible question types and provide an opportunity for you to assess your time management during the practice exam. Engaging in this practice will help strengthen your problem-solving abilities and enhance your readiness for the upcoming exam.
 
 **Post-Exam Information:**  
 Following the conclusion of the practice midterm exam, I will upload the solutions to the questions on the recitation webpage. You are encouraged to take your practice exam paper and compare your solutions with the answers provided to identify improvement areas.
