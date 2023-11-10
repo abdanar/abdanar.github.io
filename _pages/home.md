@@ -28,7 +28,7 @@ The primary objective of this practice midterm is to familiarize you with possib
 Following the conclusion of the practice midterm exam, I will upload the solutions to the questions on the recitation webpage. You are encouraged to take your practice exam paper and compare your solutions with the answers provided to identify improvement areas.
 
 **Attendance and Participation:**  
-Attendance for this practice exam is voluntary. However, to ensure there are enough practice exam papers for those who want to participate, I kindly request that you fill out the form linked below to indicate whether you plan to attend the practice exam:
+Attendance for this practice exam is voluntary. However, to ensure there are enough practice exam papers for those who want to participate, I kindly request that those intending to participate in the practice exam fill out the form linked below:
 
 <a href="https://forms.gle/dTmjnZADfwKRexWs8" target="_blank">Practice Midterm Exam Attendance Form</a>
 
