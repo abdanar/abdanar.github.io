@@ -8,6 +8,35 @@ venue: "Department of Mathematics, METU"
 date: 2023-10-04
 location: "Ankara, Turkey"
 ---
+**Announcement:** Practice Midterm Exam  
+
+**Dear MATH 358 Students,**
+
+I hope you are doing well and staying engaged in your studies. I am writing to inform you about an upcoming practice midterm exam scheduled for 12 November (Sunday) at 17:40 in room M203.
+
+**Details of the Practice Midterm Exam:**
+
+**Date and Time:** 12 November, 17:40  
+**Location:** M203  
+**Duration:** 120 minutes  
+**Number of Questions:** 5  
+
+**Purpose of the Practice Exam:**  
+The primary objective of this practice midterm is to familiarize you with possible question types and provide an opportunity for you to assess your time management during the practice exam. Engaging in this practice will help strengthen your problem-solving abilities and enhance your readiness for the upcoming exam.
+
+**Post-Exam Information:**  
+Following the conclusion of the practice midterm exam, I will upload the solutions to the questions on the recitation webpage. You are encouraged to take your practice exam paper and compare your solutions with the answers provided to identify improvement areas.
+
+**Attendance and Participation:**  
+Attendance for this practice exam is voluntary. However, to ensure there are enough practice exam papers for those who want to participate, I kindly request that those intending to participate in the practice exam fill out the form linked below:
+
+<a href="https://forms.gle/dTmjnZADfwKRexWs8" target="_blank">Practice Midterm Exam Attendance Form</a>
+
+**Important Note:**  
+Please complete the form by Saturday, 11:59 PM so that I can print the corresponding number of practice exam papers.  
+
+If you have any questions or concerns, feel free to contact me.
+_____
 **Time:** Every Thursday from 12:40 to 14:30  
 **Location:** M106
 
