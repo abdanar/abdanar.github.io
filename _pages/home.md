@@ -8,6 +8,34 @@ redirect_from:
   - /home.html
 ---
 
+**Announcement: Practice Midterm Exam for MATH 358 Course on November 12th**  
+
+**Dear MATH 358 Students,**
+
+I hope you are doing well and staying engaged in your studies. I want to inform you about an upcoming practice midterm exam scheduled for 12 November (Sunday) at 17:40 in room M203.
+
+**Details of the Practice Midterm Exam:**
+
+**Date and Time:** 12 November, 17:40  
+**Location:** M203 Room  
+**Duration:** 120 minutes  
+**Number of Questions:** 5  
+
+**Purpose of the Practice Exam:**  
+The primary objective of this practice midterm is to familiarize you with possible question types and assess your time management skills when solving problems. Engaging in this practice will help strengthen your problem-solving abilities and enhance your readiness for the upcoming exam.
+
+**Post-Exam Information:**  
+Following the conclusion of the practice midterm exam, I will upload the solutions to the questions on the recitation webpage. You are encouraged to take your practice exam paper and compare your solutions with the answers provided to identify improvement areas.
+
+**Attendance and Participation:**  
+Attendance for this practice exam is voluntary. However, to ensure there are enough practice exam papers for those who want to participate, I kindly request that you fill out the form linked below to indicate whether you plan to attend the practice exam:
+
+**Important Note:**  
+Please complete the form by Saturday, 11:59 PM so that I can print the corresponding number of practice exam papers.  
+
+If you have any questions or concerns, feel free to contact me.
+
+
 My schedule for the fall semester is as follows:
 
 |             |    Monday    |  Tuesday | Wednesday | Thursday | Friday |
