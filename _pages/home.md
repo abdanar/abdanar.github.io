@@ -17,7 +17,7 @@ I hope you are doing well and staying engaged in your studies. I am writing to i
 **Details of the Practice Midterm Exam:**
 
 **Date and Time:** 12 November, 17:40  
-**Location:** M203
+**Location:** M203  
 **Duration:** 120 minutes  
 **Number of Questions:** 5  
 
