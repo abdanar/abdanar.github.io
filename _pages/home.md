@@ -30,6 +30,8 @@ Following the conclusion of the practice midterm exam, I will upload the solutio
 **Attendance and Participation:**  
 Attendance for this practice exam is voluntary. However, to ensure there are enough practice exam papers for those who want to participate, I kindly request that you fill out the form linked below to indicate whether you plan to attend the practice exam:
 
+<a href="https://forms.gle/dTmjnZADfwKRexWs8" target="_blank">Practice Midterm Exam Attendance Form</a>
+
 **Important Note:**  
 Please complete the form by Saturday, 11:59 PM so that I can print the corresponding number of practice exam papers.  
 
