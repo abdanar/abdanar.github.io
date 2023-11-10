@@ -36,7 +36,9 @@ Attendance for this practice exam is voluntary. However, to ensure there are eno
 Please complete the form by Saturday, 11:59 PM so that I can print the corresponding number of practice exam papers.  
 
 If you have any questions or concerns, feel free to contact me.
-_____
+
+---
+
 **Time:** Every Thursday from 12:40 to 14:30  
 **Location:** M106
 
