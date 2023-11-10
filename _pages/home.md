@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-**Announcement: Practice Midterm Exam for MATH 358 Course on November 12th**  
+**Announcement:** Practice Midterm Exam for MATH 358 Course on November 12th  
 
 **Dear MATH 358 Students,**
 
