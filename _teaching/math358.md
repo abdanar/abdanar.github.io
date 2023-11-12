@@ -10,7 +10,7 @@ location: "Ankara, Turkey"
 ---
 
 **Practice Midterm Exam:** <a href="https://drive.google.com/file/d/1ldrB032SMFDZq5wNR4n9352UUJWCB9C7/view?usp=drive_link" target="_blank">Available</a>  
-**Practice Midterm Exam (Solution key):** <a href="https://example.com/midterm-solution" target="_blank">Will be uploaded at 19.40</a>
+**Practice Midterm Exam (Solution key):** <a href="https://drive.google.com/file/d/1l4fIrQ-blCq3cTAbLEABXN_KwpTKSh-1/view?usp=drive_link" target="_blank">Available</a>
 
 **Announcement:** Practice Midterm Exam  
 
