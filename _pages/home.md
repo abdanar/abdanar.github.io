@@ -8,6 +8,9 @@ redirect_from:
   - /home.html
 ---
 
+**Practice Midterm Exam:** <a href="https://example.com/midterm-exam" target="_blank">Will be uploaded at 17.40</a>  
+**Practice Midterm Exam (Solution key):** <a href="https://example.com/midterm-solution" target="_blank">Will be uploaded at 19.40</a>
+
 **Announcement:** Practice Midterm Exam for MATH 358 Course on November 12th  
 
 **Dear MATH 358 Students,**
