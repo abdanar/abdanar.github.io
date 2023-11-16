@@ -9,7 +9,7 @@ date: 2023-10-04
 location: "Ankara, Turkey"
 ---
 
-Announcement: No Recitation This Week (16 November)
+**Announcement: No Recitation This Week (16 November)**
 
 Dear MATH 358 Students,
 
