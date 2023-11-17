@@ -9,20 +9,6 @@ date: 2023-10-04
 location: "Ankara, Turkey"
 ---
 
-**Announcement: No Recitation This Week (16 November)**
-
-Dear MATH 358 Students,
-
-I hope you are doing well. I am writing to inform you that there will be no recitation this week, on 16th November.
-
-There is not much material available for discussion in the recitation session. Additionally, I have an exam scheduled for today, and I need to allocate my time and focus accordingly.
-
-I appreciate your understanding in this matter, and I apologize for any inconvenience this may cause. If you have any questions or concerns, please email me, and I will do my best to address them.
-
-I appreciate your understanding and look forward to our next recitation session.
-
---
-
 **Time:** Every Thursday from 12:40 to 14:30  
 **Location:** M106
 
@@ -58,8 +44,13 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 
 **Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1szptaS1BHu8547IIgBMl-yBID9SUqBab/view?usp=sharing">Link to Exercise Sheet (will be updated)</a>
 
+## Practice Midterm Exam  
 **Practice Midterm Exam:** <a href="https://drive.google.com/file/d/1ldrB032SMFDZq5wNR4n9352UUJWCB9C7/view?usp=drive_link" target="_blank">Available</a>  
 **Practice Midterm Exam (Solution key):** <a href="https://drive.google.com/file/d/1nF_zt4iqSRQ5KJ6Q9odIMObJxAnScNkA/view?usp=drivesdk " target="_blank">Available</a>
+
+## Week 6
+
+**Exercise Sheet:** Access the exercise sheet here: <a href="">Link to Exercise Sheet (will be updated)</a>
 
 &nbsp;
 
