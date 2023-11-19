@@ -1,13 +1,21 @@
 ---
 permalink: /interest/
-title: "Interest"
+title: ""
 author_profile: true
 redirect_from: 
   - /interest
 ---
 
-Please don't hesitate to contact me.  
-**Email addresses**
-- abdullayev.anar@metu.edu.tr
-- abdullaanar172@gmail.com
+I have interests in particular areas of mathematics.
+
+- Numerical Analysis
+  - Eigenvalue algorithm
+  - Numerical integration
+  - Numerical methods for differential equations
+  - Optimization
+- Mathematical Modeling
+  - Mathematical Biology, with a focus on infectious diseases
+- Optimal Control Theory
+     
+While my passion for mathematics spans various areas, being an undergraduate student means I must prioritize due to time constraints. Currently, my main focus lies in comprehending the fundamentals of mathematical modeling, particularly in the context of infectious diseases. To guide my exploration, I have chosen 'An Introduction to Mathematical Modeling of Infectious Diseases' by Michael Y. Li as my primary source."
 
