@@ -6,7 +6,7 @@ redirect_from:
   - /interest
 ---
 
-I have interests in particular areas of mathematics.
+I have specific interests within the field of mathematics, encompassing:
 
 - Numerical Analysis
   - Eigenvalue algorithm
