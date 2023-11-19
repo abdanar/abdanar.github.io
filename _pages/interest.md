@@ -17,5 +17,5 @@ I have specific interests within the field of mathematics, encompassing:
   - Mathematical Biology, with a focus on infectious diseases
 - Optimal Control Theory
      
-While my passion for mathematics spans various areas, being an undergraduate student means I must prioritize due to time constraints. Currently, my main focus lies in comprehending the fundamentals of mathematical modeling, particularly in the context of infectious diseases. To guide my exploration, I have chosen 'An Introduction to Mathematical Modeling of Infectious Diseases' by Michael Y. Li as my primary source."
+While my passion for mathematics spans various areas, being an undergraduate student means I must prioritize due to time constraints. Currently, my main focus lies in comprehending the fundamentals of mathematical modeling, particularly in the context of infectious diseases. To guide my exploration, I have chosen 'An Introduction to Mathematical Modeling of Infectious Diseases' by Michael Y. Li as my primary source.
 
