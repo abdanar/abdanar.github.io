@@ -8,6 +8,17 @@ venue: "Department of Mathematics, METU"
 date: 2023-10-04
 location: "Ankara, Turkey"
 ---
+**Announcement**: No Recitation Session Today and Practice Midterm Exam 2  
+
+Dear MATH 358 Students,
+
+I hope you are doing well and staying engaged in your studies. I would like to inform you that there will not be a recitation session today.
+
+In addition, I am preparing Practice Midterm Exam 2 to help you assess your understanding of the material and identify areas for improvement. Further details about Practice Midterm Exam 2, including the format and timing, will be provided in a subsequent announcement.
+
+Thank you for your understanding, and I appreciate your commitment to your studies. If you have any questions or concerns, feel free to contact me.
+
+---
 
 **Time:** Every Thursday from 12:40 to 14:30  
 **Location:** M106
