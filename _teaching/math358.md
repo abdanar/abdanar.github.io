@@ -64,6 +64,18 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 
 **Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1mBhUmcNyveudh5-MSE8aVwhaODmZgLPg/view?usp=sharing">Link to Exercise Sheet</a>
 
+## Week 7
+
+**Exercise Sheet:** Access the exercise sheet here: <a href="">Link to Exercise Sheet</a>
+
+## Week 8
+
+**Exercise Sheet:** Access the exercise sheet here: <a href="">Link to Exercise Sheet</a>
+
+## Week 9
+
+**Exercise Sheet:** Access the exercise sheet here: <a href="">Link to Exercise Sheet</a>
+
 &nbsp;
 
 <!-- I plan to solve the problems in Partial Differential Equations by Dr. Rajen Kumar Sinha and upload the solutions. However, I may not be able to upload them immediately after you finish the topics discussed in each module's corresponding lecture problems. You can find the solutions below. 
