@@ -70,12 +70,12 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 
 ## Week 8
 
-**Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1Airmp7OUg5h5xOpxKlIu8twecUYxcNFD/view?usp=sharing">Link to Exercise Sheet</a>
+**Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1DRP2fjyX7cw26SEwXqfTQp0UQ1rEX-ta/view?usp=drive_link">Link to Exercise Sheet</a>
 **Answer Key for Recitation 8:** You can find the answer key to the exercise sheet here: <a href="">Link to Answer Key</a>
 
 ## Week 9
 
-**Exercise Sheet:** Access the exercise sheet here: <a href="">Link to Exercise Sheet</a>
+**Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1UndCeiY6cwVw0dXoYiivoOsDVHZIWuxr/view?usp=drive_link">Link to Exercise Sheet</a>
 **Answer Key for Recitation 9:** You can find the answer key to the exercise sheet here: <a href="">Link to Answer Key</a>
 
 &nbsp;
