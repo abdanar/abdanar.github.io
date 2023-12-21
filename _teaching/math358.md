@@ -70,7 +70,7 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 
 ## Week 8
 
-**Exercise Sheet:** Access the exercise sheet here: <a href="">Link to Exercise Sheet</a>
+**Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1Airmp7OUg5h5xOpxKlIu8twecUYxcNFD/view?usp=sharing">Link to Exercise Sheet</a>
 
 ## Week 9
 
