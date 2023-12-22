@@ -8,6 +8,17 @@ venue: "Department of Mathematics, METU"
 date: 2023-10-04
 location: "Ankara, Turkey"
 ---
+
+**Announcement:** Update on Practice Midterm Exam 2
+
+Dear MATH 358 Students,
+
+I am writing to inform you about a change in the arrangement for Practice Midterm Exam 2. Regrettably, I have not secured a room for the in-person conduct of Practice Midterm Exam 2. As a result, I have decided to make the exam available to you online. I understand the importance of preparation and appreciate your flexibility in this matter. I am working to finalize the exam and plan to upload it to the recitation webpage by Sunday. If you encounter any technical difficulties or have questions regarding the exam, please feel free to contact me. I am here to assist you throughout this process.
+
+Thank you for your understanding. I appreciate your commitment to your studies and adaptability in light of these changes.
+
+---
+
 **Time:** Every Thursday from 12:40 to 14:30  
 **Location:** M106
 
