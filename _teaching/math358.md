@@ -55,9 +55,9 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 **Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1szptaS1BHu8547IIgBMl-yBID9SUqBab/view?usp=sharing">Link to Exercise Sheet</a>  
 **Answer Key for Recitation 5:** You can find the answer key to the exercise sheet here: <a href="">Link to Answer Key (will be updated)</a>  
 
-## Practice Midterm Exam  
-**Practice Midterm Exam:** <a href="https://drive.google.com/file/d/1ldrB032SMFDZq5wNR4n9352UUJWCB9C7/view?usp=drive_link" target="_blank">Available</a>  
-**Practice Midterm Exam (Solution key):** <a href="https://drive.google.com/file/d/1nF_zt4iqSRQ5KJ6Q9odIMObJxAnScNkA/view?usp=drivesdk " target="_blank">Available</a>
+## Practice Midterm Exam 1  
+**Practice Midterm Exam 1:** <a href="https://drive.google.com/file/d/1ldrB032SMFDZq5wNR4n9352UUJWCB9C7/view?usp=drive_link" target="_blank">Available</a>  
+**Practice Midterm Exam 1 (Solution key):** <a href="https://drive.google.com/file/d/1nF_zt4iqSRQ5KJ6Q9odIMObJxAnScNkA/view?usp=drivesdk " target="_blank">Available</a>
 
 ## Week 6
 
@@ -76,6 +76,11 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 
 **Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1UndCeiY6cwVw0dXoYiivoOsDVHZIWuxr/view?usp=drive_link">Link to Exercise Sheet</a>  
 **Solution Key for Recitation 9:** You can find the solution key to the exercise sheet here: <a href="https://drive.google.com/file/d/1ng9rCrETyINnwsByKLBvp5n5nZOArl6F/view?usp=sharing">Link to Solution Key</a>
+
+## Practice Midterm Exam 2    
+**Practice Midterm Exam 2:** <a href="" target="_blank">will be available on December 24</a>  
+**Practice Midterm Exam 2 (Solution key):** <a href="https://drive.google.com/file/d/1nF_zt4iqSRQ5KJ6Q9odIMObJxAnScNkA/view?usp=drivesdk " target="_blank">will be available on </a>
+
 
 &nbsp;
 
