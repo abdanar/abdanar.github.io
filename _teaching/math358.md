@@ -85,7 +85,7 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 
 ## Practice Midterm Exam 2    
 **Practice Midterm Exam 2:** <a href="https://drive.google.com/file/d/1akdCCxrMDpazly5_En9wYWJn2yN8xnCp/view?usp=drive_link" target="_blank">Available</a>  
-**Practice Midterm Exam 2 (Solution key):** <a href="https://drive.google.com/file/d/1nF_zt4iqSRQ5KJ6Q9odIMObJxAnScNkA/view?usp=drivesdk " target="_blank">will be available on December 25</a>
+**Practice Midterm Exam 2 (Solution key):** <a href="https://drive.google.com/file/d/1REDL0u5BtGuSST9GPK4cl5XKTN3l4FS6/view?usp=sharing" target="_blank">Available</a>
 
 
 &nbsp;
