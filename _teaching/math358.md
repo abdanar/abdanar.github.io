@@ -9,13 +9,19 @@ date: 2023-10-04
 location: "Ankara, Turkey"
 ---
 
-**Announcement:** Update on Practice Midterm Exam 2
+**Announcement:** Practice Midterm Exam 2 Uploaded - Solutions to be Shared on Monday
 
 Dear MATH 358 Students,
 
-I am writing to inform you about a change in the arrangement for Practice Midterm Exam 2. Regrettably, I have not secured a room for the in-person conduct of Practice Midterm Exam 2. As a result, I have decided to make the exam available to you online. I understand the importance of preparation and appreciate your flexibility in this matter. I am working to finalize the exam and plan to upload it to the recitation webpage by Sunday. If you encounter any technical difficulties or have questions regarding the exam, please feel free to contact me. I am here to assist you throughout this process.
+I hope you are doing well. I wanted to inform you that Practice Midterm Exam 2 has been uploaded. However, please note that the solutions are not yet available, and I plan to share them with you on Monday.
 
-Thank you for your understanding. I appreciate your commitment to your studies and adaptability in light of these changes.
+You are permitted to use papers during the exam, and I highly recommend doing so. This includes solving integrals on paper and directly writing the answers onto the exam sheet. Utilizing this method will ensure that you have ample space to work through the problems. Please be mindful not to attempt to include every detail on the paper, as the allocated space for each question, especially the 1st and 2nd, may not accommodate all your solutions.
+
+The topics covered in Practice Midterm Exam 2 align with the material discussed in recitation sessions. Additionally, please be aware that you may encounter questions about the inhomogeneous wave equation in the actual exam.
+
+Rest assured that if I provide solutions to Practice Midterm Exam 2, I will explain each point clearly to facilitate your understanding.
+
+If you have any further questions or concerns, please feel free to reach out to me. 
 
 ---
 
@@ -78,7 +84,7 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 **Solution Key for Recitation 9:** You can find the solution key to the exercise sheet here: <a href="https://drive.google.com/file/d/1ng9rCrETyINnwsByKLBvp5n5nZOArl6F/view?usp=sharing">Link to Solution Key</a>
 
 ## Practice Midterm Exam 2    
-**Practice Midterm Exam 2:** <a href="" target="_blank">will be available on December 24</a>  
+**Practice Midterm Exam 2:** <a href="https://drive.google.com/file/d/1akdCCxrMDpazly5_En9wYWJn2yN8xnCp/view?usp=drive_link" target="_blank">will be available on December 24</a>  
 **Practice Midterm Exam 2 (Solution key):** <a href="https://drive.google.com/file/d/1nF_zt4iqSRQ5KJ6Q9odIMObJxAnScNkA/view?usp=drivesdk " target="_blank">will be available on </a>
 
 
