@@ -9,22 +9,6 @@ date: 2023-10-04
 location: "Ankara, Turkey"
 ---
 
-**Announcement:** Practice Midterm Exam 2 Uploaded - Solutions to be Shared on Monday
-
-Dear MATH 358 Students,
-
-I hope you are doing well. I wanted to inform you that Practice Midterm Exam 2 has been uploaded. However, please note that the solutions are not yet available, and I plan to share them with you on Monday.
-
-You are permitted to use papers during the exam, and I highly recommend doing so. This includes solving integrals on paper and directly writing the answers onto the exam sheet. Utilizing this method will ensure that you have ample space to work through the problems. Please be mindful not to attempt to include every detail on the paper, as the allocated space for each question, especially the 1st and 2nd, may not accommodate all your solutions.
-
-The topics covered in Practice Midterm Exam 2 align with the material discussed in recitation sessions. Additionally, please be aware that you may encounter questions about the inhomogeneous wave equation in the actual exam.
-
-Rest assured that if I provide solutions to Practice Midterm Exam 2, I will explain each point clearly to facilitate your understanding.
-
-If you have any further questions or concerns, please feel free to reach out to me. 
-
----
-
 **Time:** Every Thursday from 12:40 to 14:30  
 **Location:** M106
 
