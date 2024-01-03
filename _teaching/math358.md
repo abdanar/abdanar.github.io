@@ -73,6 +73,11 @@ Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential 
 **Practice Midterm Exam 2:** <a href="https://drive.google.com/file/d/1akdCCxrMDpazly5_En9wYWJn2yN8xnCp/view?usp=drive_link" target="_blank">Available</a>  
 **Practice Midterm Exam 2 (Solution key):** <a href="https://drive.google.com/file/d/1r8XGhNRBC8F6vqEppiJw5h7chjKH8aEd/view?usp=sharing">Available(new version)</a>
 
+## Week 10
+
+**Exercise Sheet:** Access the exercise sheet here: <a href="">Link to Exercise Sheet</a>  
+**Solution Key for Recitation 10:** You can find the solution key to the exercise sheet here: <a href="">Link to Solution Key</a>
+
 
 &nbsp;
 
