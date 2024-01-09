@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /interest
 ---
+Below are the results I have derived in my free time. There are many questions in my mind and papers, but as soon as I solve them, I will share the results here. These problems are simple and fun to solve; I do not consider them as problems that require too much knowledge in math.
+
 ## Problem 1
 If we have the initial value problem
 
