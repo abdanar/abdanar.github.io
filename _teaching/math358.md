@@ -9,7 +9,7 @@ date: 2023-10-04
 location: "Ankara, Turkey"
 ---
 
-**Semester**: Fall 2023-2024 (Concluded)  
+**Semester**: Fall 2023-2024   
 **Time:** Every Thursday from 12:40 to 14:30  
 **Location:** M106
 
