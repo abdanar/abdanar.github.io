@@ -1,6 +1,6 @@
 ---
-title: "MATH 358"
-excerpt: "Partial Differential Equations"
+title: "Partial Differential Equations (MATH 358)"
+excerpt: "The recitation webpage for MATH 358 during the 2023-2024 Fall Semester."
 collection: teaching
 type: "Recitation"
 permalink: /teaching/math358
