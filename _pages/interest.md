@@ -1,6 +1,6 @@
 ---
 permalink: /interest/
-title: ""
+title: "Interest"
 author_profile: true
 redirect_from: 
   - /interest
