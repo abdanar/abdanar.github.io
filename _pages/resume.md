@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-heloo
 <!---{% include base_path %} --->
 ## Education
 
