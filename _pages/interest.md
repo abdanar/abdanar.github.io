@@ -5,8 +5,6 @@ author_profile: true
 redirect_from: 
   - /interest
 ---
-
-
 ### Problem 1
 If we have the initial value problem
 
