@@ -18,7 +18,7 @@ In these recitation sessions, my primary goal is to help you develop a grasp of 
 ### References (will be updated)
 Debnath, L. (2012). _Nonlinear Partial Differential Equations for Scientists and Engineers_ (3rd ed.). Springer. https://doi.org/10.1007/978-0-8176-8265-1  
 Olver, P. J. (2014). _Introduction to Partial Differential Equations_. Springer International Publishing. https://doi.org/10.1007/978-3-319-02099-0    
-Zachmanoglou, E. C., & Thoe, D. W. (1976). Introduction to Partial Differential Equations with Applications. Dover Publications.  
+Zachmanoglou, E. C., & Thoe, D. W. (1976). _Introduction to Partial Differential Equations with Applications_. Dover Publications.  
 
 
 ## Week 1
