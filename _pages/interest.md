@@ -7,11 +7,7 @@ redirect_from:
 ---
 
 ## Readings
-Even though I do not have enough time to self-study additional areas of mathematics beyond my current courses, whenever I come across interesting topics, I allocate time to explore them. I read a little about each to determine whether it is worth investing more time in. Below, I share the areas of math that currently pique my interest and that I find enjoyable to study.
-
-- Loaded differential equations
-- q-Calculus (also known as quantum calculus)
-- Stochastic differential equations
+Even though I do not have enough time to self-study additional areas of mathematics beyond my current courses, whenever I come across interesting topics, I allocate time to explore them. I read a little about each to determine whether it is worth investing more time in. In a short period of time, during the upcoming month-long break, I am planning to focus primarily on loaded differential equations and document my detailed understanding of them.
 
 ## Problems
 
