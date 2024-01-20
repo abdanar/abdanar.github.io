@@ -16,6 +16,7 @@ _Bachelor's Degree in Mathematics_
 - MATH 381 - Numerical Analysis I
 - MATH 382 - Numerical Analysis II
 - MATH 401 - Introduction to Optimization
+- IAM 530 - Elements of Probability and Statistics
 - IAM 567 - Mathematical Modelling
 
 **TDV Baku Turkish High School** | 2014-2019  
