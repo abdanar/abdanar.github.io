@@ -8,6 +8,13 @@ redirect_from:
   - /home.html
 ---
 
+The courses that I am willing to take next semester (Spring 2023-2024) are as follows:
+
+- **MATH 480** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360420" target = "blank"> Numerical methods for differential equations </a>
+- **MATH 488** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360420" target = "blank"> Applied Mathematics II </a>
+- **IAM 572** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360420" target = "blank"> Finite element methods for partial differential equations: theory and applications </a>
+
+<!---
 My schedule for the fall semester is as follows:
 
 |             |    Monday    |  Tuesday | Wednesday | Thursday | Friday |
@@ -23,13 +30,13 @@ My schedule for the fall semester is as follows:
 | **16:40-17:30** |              |          | MUS 331   |          |        |
 | **17:40-18:30** |              |          | MUS 331   |          |        |
 
-Below, you will find detailed information about the courses in which I am currently enrolled.  
+Below, you will find detailed information about the courses I am currently enrolled in.  
 - **MATH 420** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360420" target = "blank"> Point-Set Topology </a>      
 - **MATH 487** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360487" target = "blank"> Applied Mathematics I </a>    
 - **IAM 530** - <a href="https://catalog.metu.edu.tr/course.php?course_code=9700530" target = "blank"> Elements of Probability and Statistics </a>    
 - **IAM 567** - <a href="https://catalog.metu.edu.tr/course.php?course_code=9700567" target = "blank"> Mathematical Modelling </a>     
 - **MUS 331** - <a href="https://catalog.metu.edu.tr/course.php?course_code=6510331" target = "blank"> History of Jazz </a>     
-
+-->
 
 
 
