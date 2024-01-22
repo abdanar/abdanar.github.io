@@ -15,7 +15,7 @@ location: "Ankara, Turkey"
 
 In these recitation sessions, my primary goal is to help you develop a grasp of the concepts and techniques discussed in the main lectures. I will focus on problem-solving and provide additional exercises to enhance your understanding of the covered material. Below you will find exercise sheets corresponding to each recitation session. I aim to cover as many problems as possible during our sessions. However, if time constraints prevent me from solving all the exercises, I encourage you to work on them as independent exercises. If you encounter any questions or difficulties while working on the exercises, please feel free to reach out to me via email, specifying the problem number, and I will do my best to assist you.
 
-### References (will be updated)
+### References
 - Constanda, C. (2010). _Solution Techniques for Elementary Partial Differential Equations_ (2nd ed.). Chapman and Hall/CRC. https://doi.org/10.1201/b12773
 - Debnath, L. (2012). _Nonlinear Partial Differential Equations for Scientists and Engineers_ (3rd ed.). Springer. https://doi.org/10.1007/978-0-8176-8265-1  
 - Olver, P. J. (2014). _Introduction to Partial Differential Equations_. Springer International Publishing. https://doi.org/10.1007/978-3-319-02099-0
