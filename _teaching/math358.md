@@ -24,6 +24,10 @@ In these recitation sessions, my primary goal is to help you develop a grasp of 
 - Zachmanoglou, E. C., & Thoe, D. W. (1976). _Introduction to Partial Differential Equations with Applications_. Dover Publications.  
 
 
+![Roadmap Image](roadmap - m2.png "Roadmap")
+
+
+
 ## Week 1
 
 **Notes:** Find the notes on integral curves and vector fields here: <a href="https://drive.google.com/file/d/1Lmumw0LpLad9v0GnukLkN3oQg2x_T6Yw/view?usp=sharing" target="_blank">Link to Notes</a>  
