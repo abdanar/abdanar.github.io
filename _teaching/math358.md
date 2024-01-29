@@ -24,7 +24,7 @@ In these recitation sessions, my primary goal is to help you develop a grasp of 
 - Zachmanoglou, E. C., & Thoe, D. W. (1976). _Introduction to Partial Differential Equations with Applications_. Dover Publications.  
 
 
-![Roadmap Image](_teaching/roadmapm2.png "Roadmap")
+![roadmap](roadmapm2.png)
 
 
 
