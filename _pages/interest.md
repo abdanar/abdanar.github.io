@@ -6,9 +6,6 @@ redirect_from:
   - /interest
 ---
 
-I am currently coding numerical methods for differentiation and integration in Python. I plan to create a Python library and write detailed documentation for it.
-
-
 ## Project
 
 Below, you can find my project report and presentation for the Mathematical Modeling course (IAM 567). The focus of my project was **compartmental models in mathematical epidemiology**, and I delivered a talk on January 3rd, 2024, at the Institute of Applied Mathematics, METU.
