@@ -7,7 +7,7 @@ main:
     url: /interest/ 
 
   - title: "Posts"
-    url: /posts/ - 
+    url: /posts/ 
     
   - title: "Resume"
     url: /resume/
