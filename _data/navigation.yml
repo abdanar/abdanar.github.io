@@ -5,6 +5,9 @@ main:
     
   - title: "Interest"
     url: /interest/ 
+
+  - title: "Posts"
+    url: /posts/ - 
     
   - title: "Resume"
     url: /resume/
