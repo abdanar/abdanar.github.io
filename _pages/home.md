@@ -10,8 +10,8 @@ redirect_from:
 
 The courses that I am willing to take next semester (Spring 2023-2024) are as follows:
 
+- **MATH 401** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360401" target = "blank"> Probability Theory </a>
 - **MATH 452** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360452" target = "blank"> Introduction to Functional Analysis </a>
-- **MATH 480** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360480" target = "blank"> Numerical methods for differential equations </a>
 - **MATH 488** - <a href="https://catalog.metu.edu.tr/course.php?prog=236&course_code=2360488" target = "blank"> Applied Mathematics II </a>
 - **IAM 572** - <a href="https://catalog.metu.edu.tr/course.php?course_code=9700572" target = "blank"> Finite element methods for partial differential equations: theory and applications </a>
 
