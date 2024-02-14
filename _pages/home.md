@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-My schedule for the spring semester is as follows:
+My schedule for the spring semester is as follows
 
 |                 |   Monday   |   Tuesday  |  Wednesday |  Thursday  |   Friday   |
 |:---------------:|:----------:|:----------:|:----------:|:----------:|:----------:|
