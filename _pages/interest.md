@@ -8,9 +8,9 @@ redirect_from:
 
 ## Student Seminar
 
-I am giving a student seminar series on the Finite Element Method (FEM).
+I am giving a student seminar series on the **Finite Element Method (FEM)**.
 
-Time and Locations:
+**Time and Locations:**
 
 - 28 May: 13:40-15:30; Room M215
 - 29 May: 13:40-15:30; Room M106
