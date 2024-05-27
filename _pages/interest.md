@@ -8,7 +8,16 @@ redirect_from:
 
 ## Student Seminar
 
-I am planning to give a student seminar series on the Finite Element Method (FEM). I will be using the following sources:
+I am giving a student seminar series on the Finite Element Method (FEM).
+
+Time and Locations:
+
+- 28 May: 13:40-15:30; Room M215
+- 29 May: 13:40-15:30; Room M106
+- 30 May: 13:40-15:30; Room M231
+- 31 May: 13:40-15:30; Room M231
+
+I will be using the following sources:
 
 - S. C. Brenner and L. R. Scott, _The Mathematical Theory of Finite Element Methods_, 3rd ed., Springer, 2008. https://doi.org/10.1007/978-0-387-75934-0.
 - Süli, E. (2020). Lecture Notes on Finite Element Methods for Partial Differential Equations. [Lecture notes]. Mathematical Institute, University of Oxford.
