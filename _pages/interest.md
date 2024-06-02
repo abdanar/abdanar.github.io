@@ -10,6 +10,8 @@ redirect_from:
 
 I am comparing the Galerkin Finite Element Method (**GFEM**) and the Streamline Upwind Petrov-Galerkin (**SUPG**) method for convection-dominated convection-diffusion equations.
 
+Report: [see](/files/GalerkinandSUGP(report).pdf)  
+
 ## Student Seminar
 
 I gave a student seminar series on the **Finite Element Method (FEM)**.
