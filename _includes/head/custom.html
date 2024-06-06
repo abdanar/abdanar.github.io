@@ -1,4 +1,20 @@
-{% include base_path %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Navid Dev - Light/Dark Toggle</title>
+    <!-- Add Google font -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fredoka&amp;display=swap"
+    />
+    <link rel="stylesheet" href="{{ base_path }}/assets/css/dark-mode.css" />
+    <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css" />
+  </head>
+  <body>
+    {% include base_path %}
 
 <!-- start custom head snippets -->
 
@@ -24,47 +40,6 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- Dark Mode Toggle Button -->
-<style>
-#toggle-dark-mode {
-    position: fixed;
-    top: 10px;
-    right: 10px;
-    z-index: 1000;
-    width: 40px; /* Adjust width and height as needed */
-    height: 40px;
-    background-image: url('dark_mode_icon.png'); /* Replace 'dark_mode_icon.png' with your image file */
-    background-size: cover;
-    background-repeat: no-repeat;
-    border: none;
-    cursor: pointer;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: box-shadow 0.3s ease;
-}
-
-#toggle-dark-mode:hover {
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-}
-</style>
-
-<script>
-const toggleButton = document.getElementById('toggle-dark-mode');
-const currentTheme = localStorage.getItem('theme');
-
-if (currentTheme === 'dark') {
-    document.body.classList.add('dark-mode');
-}
-
-toggleButton.addEventListener('click', () => {
-    document.body.classList.toggle('dark-mode');
-    let theme = 'light';
-    if (document.body.classList.contains('dark-mode')) {
-        theme = 'dark';
-    }
-    localStorage.setItem('theme', theme);
-});
-</script>
-
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -77,3 +52,49 @@ toggleButton.addEventListener('click', () => {
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
+
+    <!-- Dark Mode Toggle Button -->
+    <label for="theme" class="theme">
+      <span>Light</span>
+      <span class="theme__toggle-wrap">
+        <input
+          type="checkbox"
+          class="theme__toggle"
+          id="theme"
+          role="switch"
+          name="theme"
+          value="dark"
+        />
+        <span class="theme__fill"></span>
+        <span class="theme__icon">
+          <span class="theme__icon-part"></span
+          ><span class="theme__icon-part"></span
+          ><span class="theme__icon-part"></span
+          ><span class="theme__icon-part"></span
+          ><span class="theme__icon-part"></span
+          ><span class="theme__icon-part"></span
+          ><span class="theme__icon-part"></span
+          ><span class="theme__icon-part"></span
+          ><span class="theme__icon-part"></span>
+        </span>
+      </span>
+      <span>Dark</span>
+    </label>
+
+    <!-- JavaScript for Dark Mode Toggle -->
+    <script>
+      const toggleSwitch = document.querySelector('.theme__toggle');
+      const themeIcon = document.querySelector('.theme__icon');
+
+      toggleSwitch.addEventListener('change', function() {
+        if (this.checked) {
+          document.body.classList.add('dark-mode');
+          themeIcon.classList.add('theme__icon--dark');
+        } else {
+          document.body.classList.remove('dark-mode');
+          themeIcon.classList.remove('theme__icon--dark');
+        }
+      });
+    </script>
+  </body>
+</html>
