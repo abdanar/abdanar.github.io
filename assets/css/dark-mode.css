@@ -1,4 +1,34 @@
 /* Dark Mode Styles */
+
+/* dark-mode.css */
+
+/* Dark Mode Toggle Button */
+#toggle-dark-mode {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#toggle-dark-mode:hover {
+    background-color: #555;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+#toggle-dark-mode:active {
+    background-color: #222;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
 body.dark-mode {
     background-color: #121212;
     color: #ffffff;
