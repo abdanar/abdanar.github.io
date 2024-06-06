@@ -1,0 +1,17 @@
+/* Dark Mode Styles */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+body.dark-mode a {
+    color: #bb86fc;
+}
+body.dark-mode .ai-border {
+    border-color: #444444;
+}
+body.dark-mode .ai {
+    color: #ffffff;
+}
+body.dark-mode .ai.academicons {
+    color: #bb86fc;
+}
