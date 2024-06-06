@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=0.2" />
-    <title>Navid Dev - Light/Dark Toggle</title>
-    <!-- Add Google font -->
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Fredoka&amp;display=swap"
-    />
-    <link rel="stylesheet" href="{{ base_path }}/assets/css/dark-mode.css" />
-    <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css" />
-  </head>
-  <body>
-    {% include base_path %}
+{% include base_path %}
 
 <!-- start custom head snippets -->
 
@@ -52,49 +36,3 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
-
-    <!-- Dark Mode Toggle Button -->
-    <label for="theme" class="theme">
-      <span>Light</span>
-      <span class="theme__toggle-wrap">
-        <input
-          type="checkbox"
-          class="theme__toggle"
-          id="theme"
-          role="switch"
-          name="theme"
-          value="dark"
-        />
-        <span class="theme__fill"></span>
-        <span class="theme__icon">
-          <span class="theme__icon-part"></span
-          ><span class="theme__icon-part"></span
-          ><span class="theme__icon-part"></span
-          ><span class="theme__icon-part"></span
-          ><span class="theme__icon-part"></span
-          ><span class="theme__icon-part"></span
-          ><span class="theme__icon-part"></span
-          ><span class="theme__icon-part"></span
-          ><span class="theme__icon-part"></span>
-        </span>
-      </span>
-      <span>Dark</span>
-    </label>
-
-    <!-- JavaScript for Dark Mode Toggle -->
-    <script>
-      const toggleSwitch = document.querySelector('.theme__toggle');
-      const themeIcon = document.querySelector('.theme__icon');
-
-      toggleSwitch.addEventListener('change', function() {
-        if (this.checked) {
-          document.body.classList.add('dark-mode');
-          themeIcon.classList.add('theme__icon--dark');
-        } else {
-          document.body.classList.remove('dark-mode');
-          themeIcon.classList.remove('theme__icon--dark');
-        }
-      });
-    </script>
-  </body>
-</html>
