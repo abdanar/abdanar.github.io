@@ -37,9 +37,16 @@ body {
 }
 
 /* Dark Mode Toggle Button */
-.theme {
+/*.theme {
   display: flex;
   align-items: center;
+  -webkit-tap-highlight-color: transparent;
+}
+*/
+.theme {
+  position: fixed; /* Position the button relative to the viewport */
+  top: 10px; /* Adjust the distance from the top */
+  right: 10px; /* Adjust the distance from the right */
   -webkit-tap-highlight-color: transparent;
 }
 
