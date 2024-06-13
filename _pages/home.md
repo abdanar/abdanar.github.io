@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I am in the final semester of my undergraduate studies. My final exams end on June 10. I am waiting for the results of my graduate applications. Wish me luck!
+I am waiting for the results of my graduate applications. Wish me luck!
 
 <!---
 My schedule for the spring semester is as follows:
