@@ -7,7 +7,7 @@ redirect_from:
   - /home/
   - /home.html
 ---
-Welcome to my webpage. I have finished my final semester undergraduate exams. I graduated this semester, and my graduation ceremony will be on September 2-3. I have applied to universities in the UK and Germany for a master's degree and am waiting for the results of my applications. After I decide where I will study for my master's degree, I plan to update this website accordingly.
+Welcome to my website. I have finished my final semester undergraduate exams. I graduated this semester, and my graduation ceremony will be on September 2-3. I have applied to universities in the UK and Germany for a master's degree and am waiting for the results of my applications. After I decide where I will study for my master's degree, I plan to update this website accordingly.
 
 
 <!---
