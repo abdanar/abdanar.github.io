@@ -49,7 +49,7 @@ For the implementation of the Finite Element Method for ODEs, I used Python.
   - Equivalence of Elements
   - Finite Element Method for PDEs
 
-## Project
+## Projects
 
 ### Compartmental models in mathematical epidemiology
 
