@@ -7,8 +7,14 @@ redirect_from:
   - /home/
   - /home.html
 ---
-Welcome to my website. I have finished my final semester undergraduate exams. I graduated this semester, and my graduation ceremony will be on September 3. I have applied to universities in the UK and Germany for a master's degree and am waiting for the results of my applications. After I decide where I will study for my master's degree, I plan to update the website accordingly.
+Welcome to my website. I graduated from Middle East Technical University as a High Honor student this semester, and my graduation ceremony will be on September 3. I have applied to universities in the UK and Germany for a master's degree and have been accepted into the following programs:
 
+1. MSc Computational Applied Mathematics - The University of Edinburgh
+2. MSc Applied Mathematics - The University of Manchester 
+3. MSc Computational and Applied Mathematics - University of Erlangen-Nuremberg
+4. MSc Mathematics - University of Münster
+
+After I decide where I will study for my master's degree, I plan to update the website accordingly.
 
 <!---
 My schedule for the spring semester is as follows:
