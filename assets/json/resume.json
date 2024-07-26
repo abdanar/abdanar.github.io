@@ -181,11 +181,19 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
+      "name": "A comparative analysis of GFEM and SUPG methods",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "highlights": "",
+      "startDate": "2024-03-01",
+      "endDate": "2024-06-12",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Compartmental models in mathematical epidemiology",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": "",
+      "startDate": "2023-10-02",
+      "endDate": "2024-01-03",
       "url": "https://example.com"
     }
   ]
