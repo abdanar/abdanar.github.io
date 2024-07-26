@@ -4,7 +4,7 @@ title: Compartmental models in mathematical epidemiology
 description: This project was conducted for the final project of the graduate course "Mathematical Modelling" 
 img:
 importance: 1
-category: work
+category: undergraduate
 related_publications: true
 ---
 
