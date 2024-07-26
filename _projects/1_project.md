@@ -2,7 +2,7 @@
 layout: page
 title: Compartmental models in mathematical epidemiology
 description: Compartmental models in mathematical epidemiology
-img: assets/img/12.jpg
+img:
 importance: 1
 category: work
 related_publications: true
