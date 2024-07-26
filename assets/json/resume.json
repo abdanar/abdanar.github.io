@@ -140,23 +140,6 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "languages": [
-    {
-      "language": "Azerbaijani",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "Turkish",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Computational and Numerical Mathematics",
@@ -183,6 +166,23 @@
       "startDate": "2023-10-02",
       "endDate": "2024-01-03",
       "url": "https://example.com"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Azerbaijani",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Turkish",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ]
 }
