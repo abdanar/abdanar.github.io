@@ -35,12 +35,12 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Middle East Technical University",
+      "location": "Ankara, Turkey",
+      "position": "Undergraduate Recitation Instructor",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "startDate": "2023-10-12",
+      "endDate": "2023-12-28",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
@@ -52,10 +52,9 @@
       "url": "https://www.metu.edu.tr/",
       "area": "Mathematics",
       "studyType": "BSc",
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-01",
-      "score": "3.52",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2020-09-03",
+      "endDate": "2020-06-25",
+      "score": "3.52/4.0"
     }
   ],
   "awards": [
