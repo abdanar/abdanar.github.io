@@ -5,7 +5,7 @@
     "image": "",
     "email": "abdullaanar172@gmail.com",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://abdanar.github.io/al-folio/",
     "summary": "graduate student",
     "location": {
       "address": "2712 Broadway St",
@@ -60,11 +60,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Mathematics Münster Full Grant Scholarship",
+      "date": "2024-06-26",
+      "awarder": "University of Münster",
+      "url": "https://www.uni-muenster.de/MathematicsMuenster/careers/international/master/full-grant-scholarship.shtml",
+      "summary": "The Mathematics Münster Master’s Scholarship is awarded to talented students who will contribute to the international research environment of the Cluster of Excellence Mathematics Münster at the University of Münster."
     }
   ],
   "certificates": [
@@ -151,12 +151,17 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Azerbaijani",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Turkish",
       "fluency": "Fluent",
       "icon": ""
     }
