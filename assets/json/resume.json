@@ -42,7 +42,7 @@
       "startDate": "2023-10-12",
       "endDate": "2023-12-28",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": ""
     }
   ],
   "education": [
@@ -51,7 +51,7 @@
       "location": "Ankara, Turkey",
       "url": "https://www.metu.edu.tr/",
       "area": "Mathematics",
-      "studyType": "BSc",
+      "studyType": "Bachelor of Science",
       "startDate": "2020-09-03",
       "endDate": "2024-06-25",
       "score": "3.52/4.0"
@@ -60,7 +60,8 @@
   "awards": [
     {
       "title": "Mathematics Münster Full Grant Scholarship",
-      "date": "2024-06-26",
+      "startDate": "2024-06-26",
+      "endDate": "2025-06-26",
       "awarder": "University of Münster",
       "url": "https://www.uni-muenster.de/MathematicsMuenster/careers/international/master/full-grant-scholarship.shtml",
       "summary": "The Mathematics Münster Master’s Scholarship is awarded to talented students who will contribute to the international research environment of the Cluster of Excellence Mathematics Münster at the University of Münster."
