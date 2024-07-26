@@ -1,6 +1,7 @@
 {
   "basics": {
     "name": "Anar Abdullayev",
+    "icon": "fa-solid fa-id-card-o",
     "label": "",
     "image": "",
     "email": "abdullaanar172@gmail.com",
@@ -167,15 +168,11 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computational and Numerical Mathematics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Numerical methods for PDE/ODE",
+        "Quantum Computing"
       ]
     }
   ],
