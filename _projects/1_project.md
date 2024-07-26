@@ -17,7 +17,7 @@ It will be better if we define some terminologies in epidemiology before we star
 
 In the reference book, it was stated the objective of a mathematical model of an infectious disease is to describe the transmission process of the disease. The transmission is the passage of a pathogen from an infectious individual to the population of susceptibles through modes of transmission, such as airborne, droplet transmission, and direct or indirect physical contact. We will observe that depending on the means of transmission, there will be changes in mathematical models. However, we now focus on the disease progression, one of the most important aspects to consider when mathematically modeling the disease.
 
-
+![Figure 1: Disease Progression [Dobson, 2020].](https://github.com/abdanar/abdanar.github.io/_projects/project1_pictures/)
 
 
 
