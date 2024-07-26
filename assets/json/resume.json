@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Anar Abdullayev",
-    "icon": "fa-solid fa-id-card-o",
     "label": "",
     "image": "",
     "email": "abdullaanar172@gmail.com",
@@ -54,7 +53,7 @@
       "area": "Mathematics",
       "studyType": "BSc",
       "startDate": "2020-09-03",
-      "endDate": "2020-06-25",
+      "endDate": "2024-06-25",
       "score": "3.52/4.0"
     }
   ],
@@ -65,6 +64,13 @@
       "awarder": "University of Münster",
       "url": "https://www.uni-muenster.de/MathematicsMuenster/careers/international/master/full-grant-scholarship.shtml",
       "summary": "The Mathematics Münster Master’s Scholarship is awarded to talented students who will contribute to the international research environment of the Cluster of Excellence Mathematics Münster at the University of Münster."
+    },
+    {
+      "title": "High Honor graduate",
+      "date": "2024-06-25",
+      "awarder": "Middle East Technical University",
+      "url": "",
+      "summary": "Students who complete the undergraduate program with a Grade Point Average of 3.50 or above are qualified as 'High Honors' graduates."
     }
   ],
   "certificates": [
