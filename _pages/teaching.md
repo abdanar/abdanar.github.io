@@ -9,4 +9,4 @@ nav_order: 6
 
 Here are the courses I have taught:
 
-- [Course 1 Title](/teaching/course1) - Description of Course 1
+- [Course 1 Title](/teaching/course1/) - Description of Course 1
