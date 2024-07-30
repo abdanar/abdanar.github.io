@@ -4,6 +4,7 @@
     "label": "",
     "image": "",
     "email": "abdullaanar172@gmail.com",
+    "interests": "Computational and Numerical Mathematics",
     "phone": "",
     "url": "https://abdanar.github.io",
     "summary": "",
@@ -59,16 +60,6 @@
       "endDate": "2023-12-28",
       "summary": "Undergraduate recitation instructor for the course Partial Differential Equations (MATH 358), conducting weekly recitation sessions with a primary focus on enhancing students’ comprehension of key concepts.",
       "highlights": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Computational and Numerical Mathematics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Numerical methods for PDE/ODE",
-        "Quantum Computing"
-      ]
     }
   ],
   "projects": [
