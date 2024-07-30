@@ -7,9 +7,10 @@ toc:
   sidebar: left
 ---
 
-**Semester**: Fall 2023-2024   
-**Time:** Every Thursday from 12:40 to 14:30  
-**Location:** M106
+**University**: Middle East Techincal University  
+**Semester**: Fall 2023-2024    
+**Location:** M106  
+**Time:** Every Thursday from 12:40 to 14:30 
 
 In these recitation sessions, my primary goal is to help you develop a grasp of the concepts and techniques discussed in the main lectures. I will focus on problem-solving and provide additional exercises to enhance your understanding of the covered material. Below you will find exercise sheets corresponding to each recitation session. I aim to cover as many problems as possible during our sessions. However, if time constraints prevent me from solving all the exercises, I encourage you to work on them as independent exercises. If you encounter any questions or difficulties while working on the exercises, please feel free to reach out to me via email, specifying the problem number, and I will do my best to assist you.
 
@@ -77,7 +78,7 @@ In these recitation sessions, my primary goal is to help you develop a grasp of 
 **Solution Key for Recitation 10:** You can find the solution key to the exercise sheet here: <a href="https://drive.google.com/file/d/1eHsvgJ42thOE_L9uOGOq6EmnP8TGNtE0/view?usp=sharing">Link to Solution Key</a>
 
 
-> References
+## References
 
 1. Constanda, C. (2010). _Solution Techniques for Elementary Partial Differential Equations_ (2nd ed.). Chapman and Hall/CRC. https://doi.org/10.1201/b12773  
 2. Debnath, L. (2012). _Nonlinear Partial Differential Equations for Scientists and Engineers_ (3rd ed.). Springer. https://doi.org/10.1007/978-0-8176-8265-1    
