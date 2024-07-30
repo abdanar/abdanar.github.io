@@ -3,6 +3,8 @@ layout: page
 title: "Partial Differential Equations (MATH 358)"
 description: "The recitation webpage for MATH 358 during the 2023-2024 Fall Semester"
 permalink: /teaching/course1/
+toc:
+  sidebar: left
 ---
 
 **Semester**: Fall 2023-2024   
