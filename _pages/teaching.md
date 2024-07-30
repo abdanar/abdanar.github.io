@@ -9,6 +9,4 @@ nav_order: 6
 
 Here are the courses I have taught:
 
-{% for course in site.courses %}
-- [{{ course.title }}]({{ course.url }}) - {{ course.description }}
-{% endfor %}
+- [Course 1 Title](/courses/course1/) - Description of Course 1
