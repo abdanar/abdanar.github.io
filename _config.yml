@@ -128,8 +128,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # blog_name will be displayed in your blog page
-blog_description: 
+blog_name: abdanar # blog_name will be displayed in your blog page
+blog_description: abdanar is a space where I share my latest updates, insights, and news across various categories: research, conferences, and teaching. Under the research tag, you can explore my posts 
+detailing the progress and findings in my research areas. The conferences tag highlights the events I have attended and the important results I have found. In the Teaching tag, I provide valuable tips 
+for students enrolled in my courses. Please note that as I will start my masters degree next semester, there may not be posts under one of these tags for a while. 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
