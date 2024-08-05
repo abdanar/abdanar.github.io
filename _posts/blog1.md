@@ -34,40 +34,51 @@ Here, we are examining the simplest compartmental model, which is known as the S
 
 Recall that our aim is to obtain the number of hosts in each compartment at any given time $t$. We denote the numbers in each compartment by $S(t)$, $I(t)$, $R(t)$. We can construct a compartmental model by considering the net change in the number of individuals in each compartment in an interval $[t, t+\Delta t]$.
 
-\begin{align*}
+$$
+\begin{align}
         \Delta S(t) &= \text{new susceptibles} + \text{transfer from } R- \text{new infections} - \text{removal from } S\\
         \Delta I(t) &= \text{new infections} - \text{transfer into } R - \text{removal from } I\\
         \Delta R(t) &= \text{transfer from } I - \text{transfer into } S - \text{removal from } R
-\end{align*}
-If we divide both sides of the above equations by $\Delta t$ and let $\Delta t \to 0$, we obtain the following differential equations.
-\begin{align}
-    S^{\prime}(t) &= \text{influx of new susceptibles} + \text{transfer rate from } R -\text{incidence rate} - \text{removal rate from } S\notag\\
-    I^{\prime}(t) &= \text{incidence rate} - \text{transfer rate into } R - \text{removal rate from } I\label{eq1}\\
-    R^{\prime}(t) &= \text{transfer rate from } I - \text{transfer rate into } S -\text{removal rate from } R\notag
 \end{align}
+$$
+
+If we divide both sides of the above equations by $\Delta t$ and let $\Delta t \to 0$, we obtain the following differential equations.
+
+$$
+\begin{align}
+    S^{\prime}(t) &= \text{influx of new susceptibles} + \text{transfer rate from } R -\text{incidence rate} - \text{removal rate from } S\\
+    I^{\prime}(t) &= \text{incidence rate} - \text{transfer rate into } R - \text{removal rate from } I\\
+    R^{\prime}(t) &= \text{transfer rate from } I - \text{transfer rate into } S -\text{removal rate from } R
+\end{align}
+$$
+
 To determine the right-hand side of the system of ODEs, assumptions for the infectious disease should be provided. Then, using these assumptions, we can define the right-hand side.
 
 ## Kermack-McKendrick model
 
 As mentioned earlier, the model is constructed based on assumptions or hypotheses. Consider the following hypothesis about the transmission process of an infectious disease and its host population.
 1. Transmission occurs horizontally through direct contact between hosts.
-2. Mixing of individual hosts is homogeneous. In particular, the incidence rate can be expressed as $\lambda I(t)S(t)$, where $\lambda$ is called the \textit{transmission coefficient}.
-3. Rate of transfer from a compartment is proportional to the population size of the compartment. For instance, the recovery rate can be written as $\gamma I(t)$, for a rate constant $\gamma$.
+2. The mixing of individual hosts is homogeneous. In particular, the incidence rate can be expressed as $\lambda I(t)S(t)$, where $\lambda$ is called the transmission coefficient.
+3. The rate of transfer from a compartment is proportional to the population size of the compartment. For instance, the recovery rate can be written as $\gamma I(t)$, for a rate constant $\gamma$.
 4. Infected individuals become infectious upon infection with no latency period.
 5. There is no loss of immunity and no possibility of reinfection.
 6. There is no input of new susceptibles and no removal from any compartments.
 
 Notice that assumption 6 implies that the total host population remains constant. Even though we have considered assumptions that impose certain restrictions, these assumptions are plausible for a disease spread within the student population on a campus. When all the terms are substituted in \eqref{eq1}, we obtain the following system of differential equations.
 
-\begin{align*}
+$$
+\begin{align}
     S^{\prime}(t) &= -\lambda IS,\\
     I^{\prime}(t) &= \lambda IS - \gamma I,\\
     R^{\prime}(t) &= \gamma I,
-\end{align*}
+\end{align}
+$$
+
 with initial conditions
-\begin{equation*}
-    S(0) = S_{0}, \quad I(0) = I_{0}, \quad R(0) = 0.
-\end{equation*}
+
+$$
+S(0) = S_{0}, \quad I(0) = I_{0}, \quad R(0) = 0.
+$$
 
 
 This system of ordinary differential equations is called the Kermack-McKendrick epidemic model (the transfer diagram for the model is given in Figure \ref{fig5}).
@@ -75,10 +86,9 @@ This system of ordinary differential equations is called the Kermack-McKendrick 
 
 In the derived model, the functions $S(t)$, $I(t)$, and $R(t)$, as well as the model parameters $\lambda$ and $\gamma$, are nonnegative, given that the functions $S(t)$, $I(t)$, and $R(t)$ denote the number of people. In addition, some observations can be made without solving the system. Let us denote the total host population by $N(t)$. Since we assume that the total host population is constant, then $N(t) = S_0 + I_0$. As $\lambda$, $S$, and $I$ are nonnegative, it is easy to notice that $S'(t) \leq 0$, implying that $S(t)$ is a decreasing function. We have defined the epidemic, but can we ascertain the conditions under which the epidemic occurs by examining this model? Yes, we can. In the model, we have the differential equation given by
 
-\begin{equation}
-\label{eq2}
-    I^{\prime}(t) = I(\lambda S - \gamma). 
-\end{equation}
+$$
+  I^{\prime}(t) = I(\lambda S - \gamma). 
+$$
 
 When defining an epidemic, we state that it occurs when a large number of people are affected simultaneously. Alternatively, we can express that an epidemic occurs when there is a rapid increase in the number of infectious individuals. Mathematically speaking, this implies that an epidemic occurs when $I'(t) > 0$. By using the equation \eqref{eq2}, we observe that this occurs when $\lambda S - \gamma > 0$, or $S > \frac{\gamma}{\lambda}$. As we have observed that $S(t)$ is a decreasing function, it follows that $S_{0} > \frac{\gamma}{\lambda}$. Therefore, we conclude that an epidemic occurs if $S_{0} > \frac{\gamma}{\lambda}$. This phenomenon is known as threshold phenomena, and a threshold value $\frac{\gamma}{\lambda}$ is called the critical community size.
 
@@ -91,90 +101,124 @@ The model we have discussed assumes proportional transfer rates between compartm
 Let us consider a general compartment, denoted as $C$, with a total population size of $N(t)$. Individuals in this compartment exit at a rate of $rN(t)$, where $r$ is a positive constant. 
 
 Then, we have the following initial value problem.
-\begin{equation*}
-    N^{\prime}(t) = -rN(t), \quad N(0) = N_{0}.
-\end{equation*}
+
+$$
+N^{\prime}(t) = -rN(t), \quad N(0) = N_{0}.
+$$
+
 The solution to this problem is 
-\begin{equation}\label{eq3}
-    N(t) = N_{0}e^{-rt}, \quad \text{or }\quad  e^{-rt} = \dfrac{N(t)}{N_{0}}.
-\end{equation}
+
+$$
+N(t) = N_{0}e^{-rt}, \quad \text{or }\quad  e^{-rt} = \dfrac{N(t)}{N_{0}}.
+$$
+
 The equality \eqref{eq3} shows that $e^{-rt}$ is the fraction of the host population that remains in compartment $C$. In probabilistic terms, it represents the probability of an individual being in $C$ at time $t$. As our focus is on the population transfer out of $C$, we consider
-    \begin{equation*}
-    F(t;r) = 
-    \begin{cases}
-        1-e^{-rt},& \quad t\geq 0,\\
-        0,& \quad t<0.
-    \end{cases}
-\end{equation*}
+
+$$
+F(t;r) = 
+  \begin{cases}
+      1-e^{-rt},& \quad t\geq 0,\\
+      0,& \quad t<0.
+  \end{cases}
+$$
+
 This gives us the fraction of the population that has left compartment $C$ during the time period $[0, t)$, or the probability of an individual who has left compartment $C$ during $[0, t)$. If we denote $X$ as a random variable representing the \textit{residence time} of an individual in compartment $C$, then
-\begin{equation*}
+
+$$
     F_{X}(t) = p(X\leq t).
-\end{equation*}
+$$
+
 It is clear to see that $F(t; r)$ is the cumulative distribution function of the exponential distribution. So, the residence time of an individual in compartment $C$ follows an exponential distribution. We can also write the probability density function for the random variable $X$.
-\begin{equation*}
+
+$$
     f(t;r) = 
     \begin{cases}
         re^{-rt},& \quad t\geq 0,\\
         0,& \quad t<0.
     \end{cases}
-\end{equation*}
+$$
+
 The probability density function $f(t; r)$ shows the proportion of individuals with residence time $t$. We can also find the expected value of $X$, which gives us the \textit{mean residence time}.
-\begin{equation*}
+
+$$
     E[X] = \int_{-\infty}^{\infty}tf(t)\,dt = \dfrac{1}{r}.
-\end{equation*}
+$$
+
 For transfers from compartment $I$ to $R$, the residence time is the period between the time of infection and the time of recovery, which is the \textit{infectious period}. Then the infectious periods of individuals follow an exponential distribution.
-\begin{equation*}
+
+$$
     F(t;\gamma) = 
     \begin{cases}
         1-e^{-\gamma t},& \quad t\geq 0,\\
         0,& \quad t<0,
     \end{cases}
-\end{equation*}
+$$
+
 where $\frac{1}{\gamma}$ is the \textit{mean infectious period}. Similarly, for transfers from compartment $R$ to $S$, the residence time is the \textit{immune period} during which recovered individuals are protected from reinfection. Then the immune periods of individuals follow an exponential distribution.
-\begin{equation*}
+
+$$
     F(t;\delta) = 
     \begin{cases}
         1-e^{-\delta t},& \quad t\geq 0,\\
         0,& \quad t<0,
     \end{cases}
-\end{equation*}
+$$
+
 where $\frac{1}{\delta}$ is the \textit{mean immune period}.
 
 We have seen that if we assume the proportional exit rate, then we have an exponential distribution for the residence time of an individual in a compartment. But how do we derive the model equations when the infectious periods of individuals follow the distribution $F(t)$? Let us derive the model equations when the infectious periods of individuals follow the distribution $F(t)$. Notice that the change in assumption for the infectious period does not impact the equation for $S(t)$ in the simple SIR model we have shown. Based on this assumption, we will re-derive the equations for $I(t)$ and $R(t)$. Let $F_X(t)$ be the probability distribution function for residence time $X$. Then,
-\begin{equation*}
+
+$$
         G(t) = 1-F_{X}(t) = P(X>t).
-\end{equation*}
+$$
+
 is the associated \textit{survival function}. The function $G(t)$ gives us the fraction of the population that has remained in the compartment during the time period $[0, t)$, or the probability of an individual who has remained in the compartment during $[0, t)$. For any given time $\tau > 0$, $G(t - \tau)$ is the fraction of individuals who became infected at time $\tau$ and are still infectious at time $t$ ($t > \tau$). Therefore, the number of people infected at time $\tau$ and remaining infectious at time $t$ is given by
-\begin{equation*}
+
+$$
     \lambda I(\tau)S(\tau)G(t-\tau).
-\end{equation*}
+$$
+
 Then we can find the number of people accumulated in compartment $I$ since $\tau = 0$ is
-\begin{equation*}
+
+$$
         I(t) = I_{0}(t) + \int_{0}^{t}\lambda I(\tau)S(\tau)G(t-\tau)\,d\tau,
-\end{equation*}
+$$
+
 where $I_0(t)$ is the number of people who are already infected at $\tau = 0$ and remain infectious at time $t$. Similarly, we can also obtain equation for compartment $R$.
-\begin{equation*}
+
+$$
          R(t) = R_{0}(t) + \int_{0}^{t}\lambda I(\tau)S(\tau)(1-G(t-\tau))\,d\tau.
-\end{equation*}
+$$
+
 When $F(t) = 1 - e^{-\gamma t}$, we obtain
-\begin{equation*}
+
+$$
     I(t) = I_{0}(t) + \int_{0}^{t}\lambda I(\tau)S(\tau)e^{-\gamma (t-\tau)}\,d\tau, \quad I_{0}(t) = I(0)e^{-\gamma t}.
-\end{equation*}
+$$
+
 Once the derivative is taken with respect to $t$, we get
-\begin{equation*}
-    I^{\prime}(t) = I^{\prime}_{0}(t) + \dfrac{d}{dt}\int_{0}^{t}\lambda I(\tau)S(\tau)e^{-\gamma (t-\tau)}\,d\tau, \quad I^{\prime}_{0}(t) = -\gamma I_{0}(t).
-\end{equation*}
+
+$$
+I^{\prime}(t) = I^{\prime}_{0}(t) + \dfrac{d}{dt}\int_{0}^{t}\lambda I(\tau)S(\tau)e^{-\gamma (t-\tau)}\,d\tau, \quad I^{\prime}_{0}(t) = -\gamma I_{0}(t).
+$$
+
 Let us use the Leibniz integral rule for differentiation above to obtain
-\begin{align*}
+
+$$
+\begin{align}
     I^{\prime}(t) &= I^{\prime}_{0}(t) + \lambda I(t)S(t) -\gamma \int_{0}^{t}\lambda I(\tau)S(\tau)e^{-\gamma (t-\tau)}\,d\tau = \\
     &= -\gamma I_{0}(t) + \lambda I(t)S(t) -\gamma \int_{0}^{t}\lambda I(\tau)S(\tau)e^{-\gamma (t-\tau)}\,d\tau =\\
     &= \lambda I(t)S(t) -\gamma \left(I_{0}(t)+\int_{0}^{t}\lambda I(\tau)S(\tau)e^{-\gamma (t-\tau)}\,d\tau\right) =\\
     &=\lambda I(t)S(t) -\gamma I(t).
-\end{align*}
+\end{align}
+$$
+
 Similarly, we can obtain
-\begin{equation*}
+
+$$
     R^{\prime}(t) = \gamma I(t).
-\end{equation*}
+$$
+
 We have re-derived the equations for $I(t)$ and $R(t)$ in the SIR model discussed earlier.
 
 ## Disease incidence
