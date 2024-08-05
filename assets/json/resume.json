@@ -65,8 +65,8 @@
   "projects": [
     {
       "name": "A comparative analysis of GFEM and SUPG methods",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": "",
+      "summary": "Conducted a comparison of the GFEM and SUPG methods for convection-dominated convection-diffusion equations",
+      "highlights": "GFEM, SUPG",
       "startDate": "2024-03-01",
       "endDate": "2024-06-12",
       "url": "https://example.com"
