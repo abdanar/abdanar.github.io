@@ -1,14 +1,15 @@
 ---
 layout: page
-title: "Partial Differential Equations (MATH 358)"
-description: "The recitation webpage for MATH 358 during the 2023-2024 Fall Semester"
+title: "Partial Differential Equations"
+description: 
 permalink: /teaching/course1/
 toc:
   sidebar: left
 ---
 
-**University**: Middle East Techincal University  
-**Semester**: Fall 2023-2024    
+**Semester**: Fall 2023-2024  
+**Category**: Recitation  
+**University**: Middle East Techincal University      
 **Location:** M106  
 **Time:** Every Thursday from 12:40 to 14:30 
 
