@@ -3,7 +3,7 @@ layout: page
 permalink: /interest/
 title: interest
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## Student Seminar
