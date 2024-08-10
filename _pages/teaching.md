@@ -7,6 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-Recitation:
+Here you can find the course webpages. 
 
 - [Partial Differential Equations (MATH 358)](/teaching/course1/)
