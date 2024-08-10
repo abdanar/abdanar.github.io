@@ -2,7 +2,7 @@
 layout: post
 title: I gave a student seminar series on the Finite Element Method (FEM).
 date: 2024-31-05 15:30:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
