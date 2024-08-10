@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /interest/
-title: interest
+permalink: /research/
+title: research
 nav: true
-nav_order: 5
+nav_order: 1
 ---
 
 ## Student Seminar
