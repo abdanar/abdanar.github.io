@@ -1,8 +1,11 @@
 ---
 layout: page
-title: interest
 permalink: /interest/
+title: interest
+nav: true
+nav_order: 6
 ---
+
 ## Student Seminar
 
 I gave a student seminar series on the **Finite Element Method (FEM)**.
