@@ -189,6 +189,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:title/
+  research:
+    output: true
+    permalink: /:collection/:title/
   news:
     defaults:
       layout: post
