@@ -3,6 +3,7 @@ layout: page
 title: "Partial Differential Equations"
 description: 
 permalink: /teaching/course1/
+pretty_table: true
 toc:
   sidebar: left
 ---
