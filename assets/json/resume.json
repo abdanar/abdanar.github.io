@@ -25,6 +25,16 @@
   },
   "education": [
     {
+      "institution": "University of Münster",
+      "location": "Münster, Germany",
+      "url": "https://www.uni-muenster.de/en/",
+      "area": "Mathematics",
+      "studyType": "Master of Science",
+      "startDate": "2024-10-01",
+      "endDate": "",
+      "score": ""
+    },
+    {
       "institution": "Middle East Technical University",
       "location": "Ankara, Turkey",
       "url": "https://www.metu.edu.tr/",
