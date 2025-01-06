@@ -7,4 +7,4 @@ permalink: /blog/blog1/
 related_posts: false
 ---
 
-/blog/blog1/
+[label](/blog/blog1/)
