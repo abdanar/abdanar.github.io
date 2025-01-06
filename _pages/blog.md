@@ -8,3 +8,4 @@ nav_order: 5
 ---
 
 hello
+[label](/blog/blog1/)
