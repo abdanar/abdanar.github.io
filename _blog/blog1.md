@@ -5,5 +5,4 @@ description:
 permalink: /blog/blog1/
 ---
 
-[label](/blog/blog1/)
 
