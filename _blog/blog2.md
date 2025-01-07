@@ -12,13 +12,13 @@ related_posts: false
 **Lemma** (Grönwall's lemma in differential form)  
 Let $$I$$ be an interval of the real line of one of the forms $$[a, \infty)$$, $$[a, b]$$, or $$[a, b)$$ with $$a < b$$, and let $$\beta \in C(I)$$ such that $$\beta(t) \geq 0$$ for all $$t \in I$$. If $$v \in C^1(I)$$ is a nonnegative function that satisfies the inequality
 
-\begin{equation*}
-  v'(t) \leq \beta(t) v(t), \quad \text{for all } t \in I,
-\end{equation*}
+$$
+v'(t) \leq \beta(t) v(t), \quad \text{for all } t \in I,
+$$
 
 then
 
-\begin{equation*}
-  v(t) \leq v(a) \exp\left( \int_a^t \beta(s) \, ds \right), \quad \text{for all } t \in I.
-\end{equation*}
+$$
+v(t) \leq v(a) \exp\left( \int_a^t \beta(s) \, ds \right), \quad \text{for all } t \in I.
+$$
 
