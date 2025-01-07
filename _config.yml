@@ -311,8 +311,8 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 # for blog tags change below
-display_tags: ["theorem", "lemma", "corollary"] # these tags will be displayed on the front page of your blog
-display_categories: ["linear algebra", "numerical analysis", "functional analysis", "model order reduction"] # these categories will be displayed on the front page of your blog
+display_tags: ["theorem", "lemma", "corollary","algorithm", "inequality"] # these tags will be displayed on the front page of your blog
+display_categories: ["linalgebra", "numanalysis", "diffeqn", "functanalysis", "mor"] # these categories will be displayed on the front page of your blog
 #
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
