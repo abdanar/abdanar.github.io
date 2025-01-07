@@ -1,5 +1,13 @@
-
-
+---
+layout: post
+title: Thomas algorithm
+date: 2024-01-6 11:28:00-0400
+description: an algorithm for solving tridiagonal systems of equations
+permalink: /blog/blog1/
+tags: algorithm
+categories: numerical analysis
+related_posts: false
+---
 
 **Lemma** (Grönwall's lemma in differential form)  
 Let $I$ be an interval of the real line of one of the forms $[a, \infty)$, $[a, b]$, or $[a, b)$ with $a < b$, and let $\beta \in C(I)$ such that $\beta(t) \geq 0$ for all $t \in I$. If $v \in C^1(I)$ is a nonnegative function that satisfies the inequality
