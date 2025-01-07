@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grönwall's inequalaity
+title: Grönwall's inequality
 date: 2024-01-7 11:28:00-0400
 description: an algorithm for solving tridiagonal systems of equations
 permalink: /blog/blog2/
