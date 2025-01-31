@@ -9,11 +9,13 @@ categories: basics
 related_posts: false
 ---
 
-Let $x_1, x_2, \ldots , x_n$ be nonnegative real numbers. Then
+Let $$x_1, x_2, \ldots , x_n$$ be nonnegative real numbers. Then
+
 $$
-\frac{1}{n}\sum_{i = 1}^{n}x_{i} \geq \left(\prod_{i = 1}^{n}x{i}\right)^{n},
+\frac{1}{n}\sum_{i = 1}^{n}x_{i} \geq \left(\prod_{i = 1}^{n}x_{i}\right)^{1/n},
 $$
-and equality holds if and only if $x_1 = x_2 = \cdots = x_n$.
+
+and equality holds if and only if $$x_1 = x_2 = \cdots = x_n$$.
 
 
 
