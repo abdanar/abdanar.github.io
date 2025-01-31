@@ -1,26 +1,18 @@
 --
 layout: post
-title: Convergence of Neumann series
+title: Possible conditions for the sum of two invertible matrices to be invertible
 date: 2024-01-6 11:28:00-0400
 description: 
-permalink: /blog/blog5/
+permalink: /blog/blog6/
 tags: theorem
-categories: functanalysis
+categories: linalgebra
 related_posts: false
 ---
 
-Let $T$ be an operator. A Neumann series is of the following form
+**Theorem**: If the product $AB$ is invertible, then both $A$ and $B$ are invertible.
 
-$$
-\sum_{i = 0}^{\infty}T^{i}.
-$$
-
-**Theorem**: Let $T$ be a bounded linear operator on a Banach space $X$. If the Neumann series converges in the operator norm, then $I-T$ is invertible and its inverse is given by
-
-$$
-(I - T)^{-1} = \sum_{i = 0}^{\infty}T^{i},
-$$
-
-where $I$ is the identity operator.
-
-**Theorem**:
+**Proposition**: Let $A$ and $B$ be invertible matrices. If one of the following conditions is satisfied, then $A+B$ is invertible:  
+- $I + A^{-1}B$ is invertible
+- $sp(A^{-1}B) \notin -1$
+- $\rho(A^{-1}B) < 1$
+- $A$ and $B$ are positive-definite
