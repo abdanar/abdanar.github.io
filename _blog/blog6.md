@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Possible conditions for the sum of two invertible matrices to be invertible
 date: 2024-01-6 11:28:00-0400
