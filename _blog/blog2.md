@@ -19,6 +19,6 @@ $$
 then
 
 $$
-v(t) \leq v(a) \exp\left( \int_a^t \beta(s) \, ds \right) + \int_{a}_{t} \alpha(r) \exp\left(\int_{r}^{t}\beta(s)\, ds\right) \,dr, \quad \text{for all } t \in I.
+v(t) \leq v(a) \exp\left( \int_a^t \beta(s)  ds \right) + \int_a^{t} \alpha(r) \exp\left(\int_{r}^{t}\beta(s)  ds\right) dr, \quad \text{for all } t \in I.
 $$
 
