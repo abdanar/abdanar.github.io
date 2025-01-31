@@ -13,12 +13,12 @@ related_posts: false
 Let $$I$$ be an interval of the real line of one of the forms $$[a, \infty)$$, $$[a, b]$$, or $$[a, b)$$ with $$a < b$$, and let $$\beta \in C(I)$$ such that $$\beta(t) \geq 0$$ for all $$t \in I$$. If $$v \in C^1(I)$$ is a nonnegative function that satisfies the inequality
 
 $$
-v'(t) \leq \beta(t) v(t), \quad \text{for all } t \in I,
+v'(t) \leq \alpha(t) + \beta(t) v(t), \quad \text{for all } t \in I,
 $$
 
 then
 
 $$
-v(t) \leq v(a) \exp\left( \int_a^t \beta(s) \, ds \right), \quad \text{for all } t \in I.
+v(t) \leq v(a) \exp\left( \int_a^t \beta(s) \, ds \right) + \int_{a}_{t} \alpha(r) \exp\left(\int_{r}^{t}\beta(s)\, ds\right) \,dr, \quad \text{for all } t \in I.
 $$
 
