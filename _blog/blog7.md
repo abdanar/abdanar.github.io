@@ -3,7 +3,7 @@ layout: post
 title: Possible conditions for the sum of two invertible matrices to be invertible
 date: 2024-01-6 11:28:00-0400
 description: 
-permalink: /blog/blog6/
+permalink: /blog/blog7/
 tags: theorem
 categories: linalgebra
 related_posts: false
