@@ -9,7 +9,7 @@ nav_order: 1
 As an interested student in the IRKA (Iterative Rational Krylov Algorithm) method, I have several questions that I have not mathematically proven. If you know the answer to any of them, please contact me.
 
 **How to choose the initial shift selection?**  
-One may choose initial shifts randomly, distributed within a region containing the mirror image of the numerical range of matrix $$A$$, as the eigenvalues of the reduced matrix $$A_r$ might approximate the eigenvalues of $$A$$. However, in practice, random initial shifts tend to perform better than this, and there might be a better approach for selecting the initial points.
+One may choose initial shifts randomly, distributed within a region containing the mirror image of the numerical range of matrix $$A$$, as the eigenvalues of the reduced matrix $$A_r$$ might approximate the eigenvalues of $$A$$. However, in practice, random initial shifts tend to perform better than this, and there might be a better approach for selecting the initial points.
 
 **What conditions exist to ensure the resulting reduced matrix is stable?**  
 In practice, stability is not typically an issue, but it is still possible to obtain an unstable reduced-order system.
