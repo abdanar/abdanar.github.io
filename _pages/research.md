@@ -6,6 +6,18 @@ nav: true
 nav_order: 1
 ---
 
+As an interested student in the IRKA (Iterative Rational Krylov Algorithm) method, I have several questions that I have not mathematically proven.
+
+- How to choose the initial shift selection?
+One may choose initial shifts randomly, distributed within a region containing the mirror image of the numerical range of matrix $$A$$, as the eigenvalues of the reduced matrix $$A_r$ might approximate the eigenvalues of $$A$$. However, in practice, random initial shifts tend to perform better than this, and there might be a better approach for selecting the initial points.
+
+- What conditions exist to ensure the resulting reduced matrix is stable?
+In practice, stability is not typically an issue, but it is still possible to obtain an unstable reduced-order system.
+
+- Is it possible to derive a general convergence result for IRKA?
+It has already been shown that for state-space symmetric SISO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem. The question is whether a broader class of convergent systems can be found, which includes this condition.(i.e., if the observability and reachability Gramians are equal, consider the case where $$A = A^T$$ and $$BB^T = C^T C$$.)
+
+
 
 List of useful articles and books:
 
