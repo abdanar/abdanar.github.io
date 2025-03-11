@@ -18,7 +18,7 @@ $$
 y^{T}A_{r}y = y^{T}Q_{r}^{T}AQ_{r}y = (Q_{r}y)^{T}A(Q_{r}y) = x^{T}Ax < 0,
 $$
 
-where $$Q_{r}$$ is an orthonormal basis for the (left) modeling subspace $$V_{r}$$ and has full column rank.
+where $$Q_{r}$$ is an orthonormal basis for the (left) modeling subspace $$\mathcal{V}_{r}$$ and has full column rank.
 
 **Is it possible to derive a general convergence result for IRKA?**  
 It has already been shown that for state-space symmetric SISO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem. The question is whether a broader class of convergent systems can be found, which includes this condition.(i.e., if the observability and reachability Gramians are equal, consider the case where $$A = A^T$$ and $$BB^T = C^T C$$.)
