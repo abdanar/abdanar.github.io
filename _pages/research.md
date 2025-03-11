@@ -28,7 +28,7 @@ It has already been shown that for state-space symmetric SISO systems, IRKA is a
 
 _Note:_ One should keep the following in mind:
 - The Cross Gramian was first proposed for SISO systems and later extended to MIMO systems when the number of inputs and outputs are the same. Therefore, we assume that $$A\in\mathbb{R}^{n\times n}$$, $$B\in \mathbb{R}^{n\times m}$$, $$C\in \mathbb{R}^{p\times n}$$, where $$m=p$$.
-- This proposition does not hold for MIMO systems. (i.e., )
+- The converse of the statement does not hold for both SISO and MIMO systems.
 
 **Theorem**: Every state-space symmetric system is a symmetric system.\
 **proof**: A system is said to be state-space symmetric if there exists a minimal state-space realization $$(A, B, C)$$ satisfying $$A = A^{T}$$ and $$B^{T} = C$$. Then, we have
