@@ -42,10 +42,10 @@ _Note:_ The converse is not true in general. Thus, one can conclude that symmetr
 The following problems remain open for me, and I will share detailed solutions as I find mathematical answers to them. You can think of them as conjectures awaiting either falsification or proof of their correctness.
 
 - [ ] For state-space symmetric MIMO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem.\
-      _Note_
+      _Note_: Establish the connection between a ZIP system and a symmetric MIMO system
 - [ ] For state-space symmetric MIMO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem.
 - [ ] Every state-space symmetric, stable MIMO system has a stable IRKA realization*.
-- [ ] Every symmetric system has an IRKA realization which is symmetric.
+- [ ] Every symmetric system has a symmetric IRKA realization.
 
 *a realization (A, B, C) obtained from IRKA
 List of useful articles and books:
