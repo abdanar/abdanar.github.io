@@ -21,9 +21,21 @@ $$
 where $$Q_{r}$$ is an orthonormal basis for the (left) modeling subspace $$\mathcal{V}_{r}$$ and has full column rank.
 
 **Is it possible to derive a general convergence result for IRKA?**  
-It has already been shown that for state-space symmetric SISO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem. The question is whether a broader class of convergent systems can be found, which includes this condition.(i.e., if the observability and reachability Gramians are equal, consider the case where $$A = A^T$$ and $$BB^T = C^T C$$.)
+It has already been shown that for state-space symmetric SISO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem. The question is whether a broader class of convergent systems can be identified that includes this condition. (i.e., symmetric system: $$H(s) = H(s)^{T}$$)
 
+**Proposition**: Let $$(A, B, C)$$ be a stable state-space realization. A system is state-space symmetric if and only if all there Gramians are equal.\
+_Note:_ The Cross Gramian was first proposed for SISO systems and later extended to MIMO systems when the number of inputs and outputs are the same. Therefore, we assume that $$A\in\mathbb{R}^{n\times n}$$, $$B\in \mathbb{R}^{n\times m}$$, $$C\in \mathbb{R}^{p\times n}$$, where $$m=p$$.
 
+**Proposition**: Every state-space symmetric system is a symmetric system.\
+_Note:_ The converse is not true in general.
+
+The following problems remain open for me, and I will share detailed solutions as I find mathematical answers to them. You can think of them as conjectures awaiting either falsification or proof of their correctness.
+
+- [ ] For state-space symmetric MIMO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem.\
+      _Note_
+- [ ] For state-space symmetric MIMO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem.
+- [ ] Every state-space symmetric, stable MIMO system has a stable IRKA realization*.
+- [ ] Every symmetric system has an IRKA realization* which is symmetric.
 
 List of useful articles and books:
 
