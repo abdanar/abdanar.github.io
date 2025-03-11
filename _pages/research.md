@@ -12,7 +12,7 @@ As an interested student in the IRKA (Iterative Rational Krylov Algorithm) metho
 One may choose initial shifts randomly, distributed within a region containing the mirror image of the numerical range of matrix $$A$$, as the eigenvalues of the reduced matrix $$A_r$$ might approximate the eigenvalues of $$A$$. However, in practice, random initial shifts tend to perform better than this, and there might be a better approach for selecting the initial points.
 
 **What conditions exist to ensure the resulting reduced system is stable?**  
-In practice, stability is not typically an issue, but it is still possible to obtain an unstable reduced-order system. However, one can easily see that for a stable SISO linear dynamical system, the reduced system is also stable. If $$A$$ is negative definite (or Hurwitz), then
+In practice, stability is not typically an issue, but it is still possible to obtain an unstable reduced-order system. However, one can easily see that for a stable, state-space symmetric SISO linear dynamical system, the reduced system is also stable. If $$A$$ is negative definite (or Hurwitz), then
 
 $$
 y^{T}A_{r}y = y^{T}Q_{r}^{T}AQ_{r}y = (Q_{r}y)^{T}A(Q_{r}y) = x^{T}Ax < 0,
@@ -47,6 +47,9 @@ The following problems remain open for me, and I will share detailed solutions a
 - [ ] Every symmetric system has a symmetric IRKA realization.
 
 *a realization (A, B, C) obtained from IRKA
+
+
+
 List of useful articles and books:
 
 **Balanced Truncation**
