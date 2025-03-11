@@ -45,8 +45,9 @@ The following problems remain open for me, and I will share detailed solutions a
       _Note_
 - [ ] For state-space symmetric MIMO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem.
 - [ ] Every state-space symmetric, stable MIMO system has a stable IRKA realization*.
-- [ ] Every symmetric system has an IRKA realization* which is symmetric.
+- [ ] Every symmetric system has an IRKA realization which is symmetric.
 
+*a realization (A, B, C) obtained from IRKA
 List of useful articles and books:
 
 **Balanced Truncation**
