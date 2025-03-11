@@ -48,8 +48,6 @@ The following problems remain open for me, and I will share detailed solutions a
 
 *a realization (A, B, C) obtained from IRKA
 
-
-
 List of useful articles and books:
 
 **Balanced Truncation**
