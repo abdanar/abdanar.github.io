@@ -23,14 +23,14 @@ where $$Q_{r}$$ is an orthonormal basis for the (left) modeling subspace $$\math
 **Is it possible to derive a general convergence result for IRKA?**  
 It has already been shown that for state-space symmetric SISO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem. The question is whether a broader class of convergent systems can be identified that includes this condition. (i.e., symmetric system: $$H(s) = H^{T}(s)$$)
 
-**Proposition**: For any stable state-space symmetric realization, all three Gramians are equal.\
+**Theorem**: For any stable state-space symmetric realization, all three Gramians are equal.\
 **proof**: If $$B^{T} = C$$, then $$BC = BB^{T} = C^{T}C$$. Combining this observation with $$A$$ being symmetric, it follows from the definitions of the Gramians that all three Gramians are equal.
 
 _Note:_ One should keep the following in mind:
 - The Cross Gramian was first proposed for SISO systems and later extended to MIMO systems when the number of inputs and outputs are the same. Therefore, we assume that $$A\in\mathbb{R}^{n\times n}$$, $$B\in \mathbb{R}^{n\times m}$$, $$C\in \mathbb{R}^{p\times n}$$, where $$m=p$$.
 - This proposition does not hold for MIMO systems. (i.e., )
 
-**Proposition**: Every state-space symmetric system is a symmetric system.\
+**Theorem**: Every state-space symmetric system is a symmetric system.\
 **proof**: A system is said to be state-space symmetric if there exists a minimal state-space realization $$(A, B, C)$$ satisfying $$A = A^{T}$$ and $$B^{T} = C$$. Then, we have
 
 $$
