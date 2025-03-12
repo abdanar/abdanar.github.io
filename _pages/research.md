@@ -39,25 +39,12 @@ $$
 
 _Note:_ The converse is not true in general. Thus, one can conclude that symmetry is an inherent property of the system, independent of its state-space realizations.
 
-**Proposition** (These statements are not true and have not yet been proven or disproven. They will be corrected, and the proofs will be provided.): Let $$(A, B, C)$$ be a state-space realization and $$(A_r, B_r, C_r)$$ an IRKA realization*. 
-- If $$A$$ is invertible, then $$A_{r}$$ is invertible.
-- If $$A$$ is diagonalizable, then $$A_{r}$$ is diagonalizable.
-- If $$A$$ is symmetric, then $$A_{r}$$ is symmetric. (real)
-- If $$A$$ is Hermitian, then $$A_{r}$$ is Hermitian. (complex)
-- If $$A$$ is orthogonal, then $$A_{r}$$ is orthogonal. (real)
-- If $$A$$ is normal, then $$A_{r}$$ is normal. (complex)
-- If $$A$$ is idempotent, then $$A_{r}$$ is idempotent.
-- If $$A$$ is nilpotent, then $$A_{r}$$ is nilpotent.
-- If $$A$$ is triangular , then $$A_{r}$$ is triangular .
-- If $$A$$ is definite, then $$A_{r}$$ is definite. (positive, negative, semi-)
-- If $$A$$ is Toeplitz, then $$A_{r}$$ is Toeplitz.
-
-
 
 The following problems remain open for me, and I will share detailed solutions as I find mathematical answers to them. You can think of them as conjectures awaiting either falsification or proof of their correctness.
 
 - [ ] For state-space symmetric MIMO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem.\
       _Note_: Establish the connection between a ZIP system and a symmetric MIMO system
+- [ ] There is always a stable IRKA realization* for a linear dynamical system (a proof for the SISO case is provided above).
 - [ ] Every state-space symmetric, stable MIMO system has a stable IRKA realization.
 - [ ] Every symmetric system has a symmetric IRKA realization.
 
