@@ -39,6 +39,8 @@ $$
 
 _Note:_ The converse is not true in general. Thus, one can conclude that symmetry is an inherent property of the system, independent of its state-space realizations.
 
+**Corollary**: Let $$M$$ be an $$n\times n$$ complex diagonalizable matrix. Then, $$M$$ has $$n$$ distinct eigenvalues if and only if there exists a vector $$v\in \mathbb{C}^n$$ such that $$v,Mv, ...,M^{n−1}v$$ are linearly independent. (see an article titled 'A theorem on the number of distinct eigenvalues' by Rachid Marsli)
+
 
 The following problems remain open for me, and I will share detailed solutions as I find mathematical answers to them. You can think of them as conjectures awaiting either falsification or proof of their correctness.
 
