@@ -39,7 +39,10 @@ $$
 
 _Note:_ The converse is not true in general. Thus, one can conclude that symmetry is an inherent property of the system, independent of its state-space realizations.
 
-**Corollary**: Let $$M$$ be an $$n\times n$$ complex diagonalizable matrix. Then, $$M$$ has $$n$$ distinct eigenvalues if and only if there exists a vector $$v\in \mathbb{C}^n$$ such that $$v,Mv, ...,M^{n−1}v$$ are linearly independent. (see an article titled 'A theorem on the number of distinct eigenvalues' by Rachid Marsli)
+**Proposition**: Let $$M$$ be an $$n\times n$$ complex diagonalizable matrix. Then, $$M$$ has $$n$$ distinct eigenvalues if and only if there exists a vector $$v\in \mathbb{C}^n$$ such that $$v,Mv, ...,M^{n−1}v$$ are linearly independent. (see an article titled _A theorem on the number of distinct eigenvalues_ by Rachid Marsli)
+
+
+There is an important question I have about the IRKA for the SISO case. In the article titled _Convergence of the Iterative Rational Krylov Algorithm_ by Garret Flagg, Christopher Beattie, and Serkan Gugercin, on page 3 they provide a brief sketch (as stated in the paper) of the Iterative Rational Krylov Algorithm for the SISO case. In the interpolation point update process — an iterative correction of the interpolation points — the new points are chosen as the eigenvalues of the reduced matrix $$A_r$$. However, a good question here is: how do you know that the eigenvalues of $$A_r$$ are distinct? Note that this is a general question, not specific to state-space symmetric systems. It might be straightforward to prove for the general case, but I have not yet come up with a mathematical proof. One might easily comment that the initial interpolation points are distinct, and therefore the eigenvalues of $$A_r$$ would be distinct. However, proving this is not straightforward, at least for me, since the eigenvectors are unpredictable. But there is good news! For state-space symmetric systems, we can mathematically show that the eigenvalues of the reduced matrix $$A_r$$ are distinct. This result follows from the symmetry of the matrix $$A$$.
 
 
 The following problems remain open for me, and I will share detailed solutions as I find mathematical answers to them. You can think of them as conjectures awaiting either falsification or proof of their correctness.
