@@ -48,6 +48,8 @@ There is an important question I have about the IRKA for the SISO case. In the a
 **Theorem:** If $$A$$ is invertible, then $$A_r$$ is invertible.\
 **proof**: This is a direct result if we consider full column rank projection matrices.
 
+**Conclusion**: It turns out that several questions remain unanswered for me theoretically. Therefore, starting with single-input, single-output linear dynamical systems, I want to write a detailed paper. If you are interested or have open questions about IRKA, let me know.
+
 The following problems remain open for me, and I will share detailed solutions as I find mathematical answers to them. You can think of them as conjectures awaiting either falsification or proof of their correctness.
 
 - [ ] For state-space symmetric MIMO systems, IRKA is a locally convergent fixed-point iteration to a local minimum of the underlying $$H_2$$ approximation problem.\
@@ -57,6 +59,7 @@ The following problems remain open for me, and I will share detailed solutions a
 - [ ] Every symmetric system has a symmetric IRKA realization.
 
 *a realization (A, B, C) obtained from IRKA
+
 
 List of useful articles and books:
 
