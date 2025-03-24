@@ -6,6 +6,8 @@ nav: true
 nav_order: 1
 ---
 
+<!--
+
 I am interested in the IRKA (Iterative Rational Krylov Algorithm) and I have several questions that I have not mathematically proven. If you know the answer to any of them, please contact me.
 
 **How to choose the initial shift selection?**  
@@ -62,7 +64,9 @@ The following problems remain open for me, and I will share detailed solutions a
 - [ ] Every symmetric system has a symmetric IRKA realization.
 
 *a realization (A, B, C) obtained from IRKA
+-->
 
+It turns out that several questions about IRKA remain unanswered for me theoretically. Therefore, starting with single-input, single-output linear dynamical systems, I want to write a detailed paper. If you are interested or have open questions about IRKA, let me know.
 
 List of useful articles and books:
 
