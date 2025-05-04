@@ -12,7 +12,7 @@ related_posts: false
 Let $$A$$ be a $$n\times n$$ positive semidefinite matrix. Then
 
 $$
-  per(A)^{2} \geq per(A \circ A),
+  \text{per}(A)^{2} \geq \text{per}(A \circ A),
 $$
 
-where $$per(A)$$ is the permanent of a matrix $$A$$, and $$\circ$$ denotes the Hadamard product.  
+where $$\text{per}(A)$$ is the permanent of a matrix $$A$$, and $$\circ$$ denotes the Hadamard product.  
