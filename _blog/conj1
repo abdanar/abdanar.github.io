@@ -1,0 +1,18 @@
+---
+layout: post
+title: Chollet conjecture
+date: 2025-01-6 11:28:00-0400
+description: 
+permalink: /blog/conj1/
+tags: inequality
+categories: basics
+related_posts: false
+---
+
+Let $$A$$ be a $$n\times n$$ positive semidefinite matrix. Then
+
+$$
+  per(A)^{2} \geq per(A \circ A),
+$$
+
+where $$per(A)$$ is the permanent of a matrix $$A$$, and $$\circ$$ denotes the Hadamard product.  
