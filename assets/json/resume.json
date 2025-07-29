@@ -74,8 +74,8 @@
   ],
   "projects": [
     {
-      "name": "L₂-optimal reduced-order modeling using parameter separable forms",
-      "summary": "I studied the article *L₂-Optimal Reduced-Order Modeling Using Parameter Separable Forms*, wrote a report on it, and gave a presentation as part of a seminar course.",
+      "name": "L2-optimal reduced-order modeling using parameter separable forms",
+      "summary": "I studied the article *L2-Optimal Reduced-Order Modeling Using Parameter Separable Forms*, wrote a report on it, and gave a presentation as part of a seminar course.",
       "highlights": "MOR"
       "startDate": "2025-04-07",
       "endDate": "2025-07-03",
