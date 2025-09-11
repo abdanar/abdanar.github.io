@@ -47,7 +47,7 @@
   ],
   "awards": [
     {
-      "title": "Recipient of a grant from Wübben Wissenschaftsstiftung gGmbH",
+      "title": "Wübben Foun­da­ti­on Student Grant",
       "date": "2025-10-01",
       "awarder": "Wübben Wissenschaftsstiftung gGmbH",
       "url": "https://www.wuebben-stiftung-wissenschaft.org/program/student-grant",
@@ -120,6 +120,11 @@
       "language": "Turkish",
       "fluency": "Fluent",
       "icon": ""
-    }
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner",
+      "icon": ""
+    },
   ]
 }
