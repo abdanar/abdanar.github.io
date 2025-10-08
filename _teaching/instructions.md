@@ -7,10 +7,14 @@ permalink: /teaching/course2/instructions/
 
 Before starting the coding tasks in this course, it is important to have a proper Python environment. Conda is a popular tool for managing Python versions, packages, and environments. Using Conda ensures that your code works consistently, avoids conflicts between packages, and makes it easier to reproduce results on any computer.
 
-> [!NOTE] 
-> You do not need to install Python separately if you are using Anaconda or Miniconda. Conda automatically manages Python installations inside each environment. Each environment can have its own Python version, completely isolated from the system Python.
+<div style="border-left: 3px solid #0e69d0; background-color: transparent; padding-left: 15px; border-radius: 2px;">
+  <span style="color: #0e69d0; font-weight: bold;">ℹ️ Note</span><br>
+  <span style="margin-top: 5px; display: inline-block;">
+  You do not need to install Python separately if you are using Anaconda or Miniconda. Conda automatically manages Python installations inside each environment. Each environment can have its own Python version, completely isolated from the system Python.
+  </span>
+</div>
 
-## Step 1: Install Conda
+### Step 1: Install Conda
 
 You have two main options:
 
@@ -21,7 +25,7 @@ You have two main options:
   - Recommended if you want a smaller installation and prefer to install only the packages you need. 
   - [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-## Step 2: Open a Conda-enabled terminal
+### Step 2: Open a Conda-enabled terminal
 
 - **Windows:**  
   - Use **Anaconda Prompt** (installed with Anaconda/Miniconda).  
@@ -34,10 +38,14 @@ You have two main options:
     ```  
     Then restart the terminal.
 
-> [!IMPORTANT]
-> After opening the terminal, you should see `(base)` at the start of the prompt. This indicates the **base** Conda environment is active. Activating the correct environment ensures your code uses the right packages and versions.
+<div style="border-left: 3px solid #0e69d0; background-color: transparent; padding-left: 15px; border-radius: 2px;">
+  <span style="color: #0e69d0; font-weight: bold;">ℹ️ Note</span><br>
+  <span style="margin-top: 5px; display: inline-block;">
+  After opening the terminal, you should see <code>(base)</code> at the start of the prompt. This indicates the base Conda environment is active. Activating the correct environment ensures your code uses the right packages and versions.
+  </span>
+</div>
 
-## Step 3: Create a new environment
+### Step 3: Create a new environment
 
 It is highly recommended to create a **separate environment** for this course to avoid conflicts with other projects:
 ```bash
@@ -47,10 +55,14 @@ where
 - `npde_env` is the name of the environment. You can choose any name you like.
 - `python=3.10` ensures compatibility with the course exercises.
 
-> [!NOTE]
-> You may choose a different Python version (e.g., `python=3.11`) or omit the version entirely. Newer versions may work, but some packages or examples could potentially be incompatible. Omitting the version installs the latest Python from your Conda channels, which may cause minor issues. Specifying `python=3.10` ensures a consistent and reliable environment.
+<div style="border-left: 3px solid #0e69d0; background-color: transparent; padding-left: 15px; border-radius: 2px;">
+  <span style="color: #0e69d0; font-weight: bold;">ℹ️ Note</span><br>
+  <span style="margin-top: 5px; display: inline-block;">
+  You may choose a different Python version (e.g., <code>python=3.11</code>) or omit the version entirely. Newer versions may work, but some packages or examples could potentially be incompatible. Omitting the version installs the latest Python from your Conda channels, which may cause minor issues. Specifying <code>python=3.10</code> ensures a consistent and reliable environment.
+  </span>
+</div>
 
-## Step 4: Activate the environment
+### Step 4: Activate the environment
 
 After creating your environment, you need to **activate it** before using it. To activate the environment:
 ```bash
@@ -66,8 +78,12 @@ or on macOS/Linux:
 ```
 The part in parentheses `(npde_env)` indicates that the `npde_env` environment is currently active.
 
-> [!WARNING]
-> Always make sure the correct environment is active before running Python code for this course. If you forget to activate it, your code may use packages from the base environment, which can lead to errors or inconsistent results.
+<div style="border-left: 3px solid #FFC107; background-color: transparent; padding-left: 15px; border-radius: 2px;">
+  <span style="color: #FFC107; font-weight: bold;">⚠️ Warning</span><br>
+  <span style="margin-top: 5px; display: inline-block;">
+  Always make sure the correct environment is active before running Python code for this course. If you forget to activate it, your code may use packages from the <code>base</code> environment, which can lead to errors or inconsistent results.
+  </span>
+</div>
 
 When you are done working, you can deactivate the environment:
 ```bash
@@ -75,7 +91,7 @@ conda deactivate
 ```
 The terminal prompt will return to `(base)` or your default system prompt. Deactivating an environment does **not** delete it; it simply stops using it until you activate it again.
 
-## Step 5: Install required packages
+### Step 5: Install required packages
 
 Once your environment `npde_env` is active, you need to install the Python packages required for this course. These packages provide the tools to perform numerical computations, visualizations, and scientific calculations.
 
@@ -88,10 +104,14 @@ conda install numpy matplotlib scipy
 conda install -c conda-forge numpy matplotlib scipy
 ```
 
-> [!WARNING]
-> Make sure your environment `npde_env` is active when installing packages. Installing in the wrong environment (or in `base`) can cause version conflicts or unexpected behavior.
+<div style="border-left: 3px solid #FFC107; background-color: transparent; padding-left: 15px; border-radius: 2px;">
+  <span style="color: #FFC107; font-weight: bold;">⚠️ Warning</span><br>
+  <span style="margin-top: 5px; display: inline-block;">
+  Make sure your environment <code>npde_env</code> is active when installing packages. Installing in the wrong environment (or in <code>base</code>) can cause version conflicts or unexpected behavior.
+  </span>
+</div>
 
-## Step 6: Verify installation
+### Step 6: Verify installation
 
 After installing the required packages, verify that everything is working correctly. This helps catch any installation or configuration issues early.
 
@@ -117,8 +137,12 @@ where
 - `[MSC v.1934 64 bit (AMD64)]` or `[GCC ...]` shows the compiler used to build Python.
 - `>>>` is the Python prompt, ready to accept commands.
 
-> [!NOTE] 
-> The exact version and build may vary slightly depending on your Conda installation, but as long as the prompt shows `>>>` and the correct Python version, your environment is ready.
+<div style="border-left: 3px solid #0e69d0; background-color: transparent; padding-left: 15px; border-radius: 2px;">
+  <span style="color: #0e69d0; font-weight: bold;">ℹ️ Note</span><br>
+  <span style="margin-top: 5px; display: inline-block;">
+  The exact version and build may vary slightly depending on your Conda installation, but as long as the prompt shows <code>>>></code> and the correct Python version, your environment is ready.
+  </span>
+</div>
 
 At the Python prompt, type the following:
 
@@ -152,12 +176,17 @@ or
 ```ruby
 (npde_env) your-computer:~$
 ```
-> [!WARNING] 
-> Make sure your `npde_env` environment is active when running Python. If you accidentally run Python in another environment (like `base`), your packages may not be available or may be different versions, leading to errors or inconsistent results.
 
-## Managing Conda Environments (Optional / Tips)
+<div style="border-left: 3px solid #FFC107; background-color: transparent; padding-left: 15px; border-radius: 2px;">
+  <span style="color: #FFC107; font-weight: bold;">⚠️ Warning</span><br>
+  <span style="margin-top: 5px; display: inline-block;">
+  Make sure your `npde_env` environment is active when running Python. If you accidentally run Python in another environment (like `base`), your packages may not be available or may be different versions, leading to errors or inconsistent results.
+  </span>
+</div>
 
-### List all Conda environments
+### Managing Conda Environments (Optional / Tips)
+
+#### List all Conda environments
 
 To see all Conda environments on your system and which one is active, run:
 ```bash
@@ -190,7 +219,7 @@ This shows:
 - List of installed packages (briefly)
 - Environment locations on your system
 
-### Switch between environments
+#### Switch between environments
 
 To switch from your current environment to another one, use:
 ```bash
@@ -215,7 +244,7 @@ conda deactivate
 ```
 You can chain multiple `deactivate` commands if needed; the prompt will eventually return to `(base)` or your system default.
 
-### Delete an environment
+#### Delete an environment
 
 To remove an environment completely:
 ```bash
