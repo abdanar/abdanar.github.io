@@ -1,4 +1,9 @@
-# Setting Up Python with Conda
+---
+layout: page
+title: "Setting Up Python with Conda"
+description: 
+permalink: /teaching/course2/instructions/
+---
 
 Before starting the coding tasks in this course, it is important to have a proper Python environment. Conda is a popular tool for managing Python versions, packages, and environments. Using Conda ensures that your code works consistently, avoids conflicts between packages, and makes it easier to reproduce results on any computer.
 
