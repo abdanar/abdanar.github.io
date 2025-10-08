@@ -14,6 +14,8 @@ Before starting the coding tasks in this course, it is important to have a prope
   </span>
 </div>
 
+<div style="height: 20px;"></div>
+
 ### Step 1: Install Conda
 
 You have two main options:
@@ -45,6 +47,8 @@ You have two main options:
   </span>
 </div>
 
+<div style="height: 20px;"></div>
+
 ### Step 3: Create a new environment
 
 It is highly recommended to create a **separate environment** for this course to avoid conflicts with other projects:
@@ -61,6 +65,8 @@ where
   You may choose a different Python version (e.g., <code>python=3.11</code>) or omit the version entirely. Newer versions may work, but some packages or examples could potentially be incompatible. Omitting the version installs the latest Python from your Conda channels, which may cause minor issues. Specifying <code>python=3.10</code> ensures a consistent and reliable environment.
   </span>
 </div>
+
+<div style="height: 20px;"></div>
 
 ### Step 4: Activate the environment
 
@@ -84,6 +90,8 @@ The part in parentheses `(npde_env)` indicates that the `npde_env` environment i
   Always make sure the correct environment is active before running Python code for this course. If you forget to activate it, your code may use packages from the <code>base</code> environment, which can lead to errors or inconsistent results.
   </span>
 </div>
+
+<div style="height: 20px;"></div>
 
 When you are done working, you can deactivate the environment:
 ```bash
@@ -110,6 +118,8 @@ conda install -c conda-forge numpy matplotlib scipy
   Make sure your environment <code>npde_env</code> is active when installing packages. Installing in the wrong environment (or in <code>base</code>) can cause version conflicts or unexpected behavior.
   </span>
 </div>
+
+<div style="height: 20px;"></div>
 
 ### Step 6: Verify installation
 
@@ -143,6 +153,8 @@ where
   The exact version and build may vary slightly depending on your Conda installation, but as long as the prompt shows <code>>>></code> and the correct Python version, your environment is ready.
   </span>
 </div>
+
+<div style="height: 20px;"></div>
 
 At the Python prompt, type the following:
 
@@ -183,6 +195,8 @@ or
   Make sure your `npde_env` environment is active when running Python. If you accidentally run Python in another environment (like `base`), your packages may not be available or may be different versions, leading to errors or inconsistent results.
   </span>
 </div>
+
+<div style="height: 20px;"></div>
 
 ### Managing Conda Environments (Optional / Tips)
 
