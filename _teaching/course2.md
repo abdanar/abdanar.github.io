@@ -19,7 +19,7 @@ This page is prepared to support students attending the tutorial sessions for th
 
 **Python Environment Setup**: Before starting the coding tasks, it is essential to have a properly configured Python environment. Using Conda makes it easy to manage different Python versions, install the required packages, and keep your setup organized without interfering with other projects.
 
-I have prepared a detailed step-by-step guide for setting up Python with Conda. The guide covers everything from installing Conda (Anaconda or Miniconda), creating and activating environments, installing all necessary packages, to verifying that your environment is ready to run Python code. Following these instructions ensures that you can work smoothly on the coding tasks and avoid common setup issues. You can access the full instructions [here](https://abdanar.github.io/teaching/course1/instructions/). 
+I have prepared a detailed step-by-step guide for setting up Python with Conda. The guide covers everything from installing Conda (Anaconda or Miniconda), creating and activating environments, installing all necessary packages, to verifying that your environment is ready to run Python code. Following these instructions ensures that you can work smoothly on the coding tasks and avoid common setup issues. You can access the full instructions [here](https://abdanar.github.io/teaching/course2/instructions/). 
 
 
 ## References
