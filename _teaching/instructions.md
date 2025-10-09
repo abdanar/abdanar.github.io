@@ -192,7 +192,7 @@ or
 <div style="border-left: 3px solid #FFC107; background-color: transparent; padding-left: 15px; border-radius: 2px;">
   <span style="color: #FFC107; font-weight: bold;">⚠️ Warning</span><br>
   <span style="margin-top: 5px; display: inline-block;">
-  Make sure your <code>npde_env</code>code> environment is active when running Python. If you accidentally run Python in another environment (like <code>base</code>), your packages may not be available or may be different versions, leading to errors or inconsistent results.
+  Make sure your <code>npde_env</code> environment is active when running Python. If you accidentally run Python in another environment (like <code>base</code>), your packages may not be available or may be different versions, leading to errors or inconsistent results.
   </span>
 </div>
 
