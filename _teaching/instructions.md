@@ -165,7 +165,7 @@ import scipy
 
 print("All packages installed correctly!")
 ```
-If no errors appear, the packages are installed correctly and you are ready to run Python code in this environment. If an error occurs, it typically indicates a missing package or a version conflict, and you will need to check your environment and installation before proceeding.
+If no errors appear, the packages are installed correctly, and you are ready to run Python code in this environment. If an error occurs, it typically indicates a missing package or a version conflict, and you will need to check your environment and installation before proceeding.
 
 When you are done, you can exit Python using any of the following methods:
 - Using a function:
@@ -192,7 +192,7 @@ or
 <div style="border-left: 3px solid #FFC107; background-color: transparent; padding-left: 15px; border-radius: 2px;">
   <span style="color: #FFC107; font-weight: bold;">⚠️ Warning</span><br>
   <span style="margin-top: 5px; display: inline-block;">
-  Make sure your `npde_env` environment is active when running Python. If you accidentally run Python in another environment (like `base`), your packages may not be available or may be different versions, leading to errors or inconsistent results.
+  Make sure your <code>npde_env</code>code> environment is active when running Python. If you accidentally run Python in another environment (like <code>base</code>), your packages may not be available or may be different versions, leading to errors or inconsistent results.
   </span>
 </div>
 
