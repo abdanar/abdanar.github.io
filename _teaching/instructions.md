@@ -103,6 +103,8 @@ The terminal prompt will return to `(base)` or your default system prompt. Deact
 
 Once your environment `npde_env` is active, you need to install the Python packages required for this course. These packages provide the tools to perform numerical computations, visualizations, and scientific calculations.
 
+#### Install main packages
+
 **Option 1: Default Conda channel**
 ```bash
 conda install numpy matplotlib scipy
@@ -111,6 +113,17 @@ conda install numpy matplotlib scipy
 ```bash
 conda install -c conda-forge numpy matplotlib scipy
 ```
+#### Install `triangle` package from GitHub
+
+The `triangle` package is not on Conda by default, so you can install it directly from its GitHub repository. First, make sure you have `pip` installed in your environment:
+```bash
+conda install pip
+```
+Then install `triangle` using `pip`:
+```bash
+pip install git+https://github.com/drufat/triangle.git
+```
+This command will download the latest version of `triangle` from GitHub and install it in your active environment.
 
 <div style="border-left: 3px solid #FFC107; background-color: transparent; padding-left: 15px; border-radius: 2px;">
   <span style="color: #FFC107; font-weight: bold;">⚠️ Warning</span><br>
@@ -162,6 +175,7 @@ At the Python prompt, type the following:
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy
+import triangle
 
 print("All packages installed correctly!")
 ```
