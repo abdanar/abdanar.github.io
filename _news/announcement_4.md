@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 I attended the diploma ceremony at Middle East Technical University in Turkey.
-
-

@@ -2,7 +2,7 @@
 layout: post
 title: Convergence of Neumann series
 date: 2024-01-6 11:28:00-0400
-description: 
+description:
 permalink: /blog/blog5/
 tags: theorem
 categories: functanalysis

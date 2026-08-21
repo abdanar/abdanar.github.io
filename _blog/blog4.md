@@ -2,7 +2,7 @@
 layout: post
 title: Arithmetic - geometric means inequality
 date: 2024-01-6 11:28:00-0400
-description: 
+description:
 permalink: /blog/blog4/
 tags: inequality
 categories: basics
@@ -16,7 +16,3 @@ $$
 $$
 
 and equality holds if and only if $$x_1 = x_2 = \cdots = x_n$$.
-
-
-
-

@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Anar
-middle_name: 
+middle_name:
 last_name: Abdullayev
 email: abdullaanar172@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -165,11 +165,11 @@ disqus_shortname: abdanar # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 #external_sources:
 #  - name: medium.com
- #   rss_url: https://medium.com/@al-folio/feed
- # - name: Google Blog
- #   posts:
- #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
- #       published_date: 2024-05-14
+#   rss_url: https://medium.com/@al-folio/feed
+# - name: Google Blog
+#   posts:
+#     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#       published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -185,7 +185,6 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-
   teaching:
     output: true
     permalink: /:collection/:title/
@@ -311,7 +310,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 # for blog tags change below
-display_tags: ["theorem", "lemma", "corollary","algorithm", "inequality", "definition"] # these tags will be displayed on the front page of your blog
+display_tags: ["theorem", "lemma", "corollary", "algorithm", "inequality", "definition"] # these tags will be displayed on the front page of your blog
 display_categories: ["basics", "linalgebra", "numanalysis", "diffeqn", "functanalysis", "mor"] # these categories will be displayed on the front page of your blog
 #
 # -----------------------------------------------------------------------------
@@ -628,7 +627,7 @@ third_party_libraries:
     url:
       js: "https://cdn.jsdelivr.net/npm/vega-lite@{{version}}/build/vega-lite.min.js"
       js_map: "https://cdn.jsdelivr.net/npm/vega-lite@{{version}}/build/vega-lite.min.js.map"
-    version: "5.16.3"   
+    version: "5.16.3"
 
 # -----------------------------------------------------------------------------
 # Get external JSON data

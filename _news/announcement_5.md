@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have started my graduate studies (Master of Science in Mathematics) at the University of Münster. 
+I have started my graduate studies (Master of Science in Mathematics) at the University of Münster.
