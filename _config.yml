@@ -310,7 +310,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 # for blog tags change below
-display_tags: ["theorem", "lemma", "corollary", "algorithm", "inequality", "definition"] # these tags will be displayed on the front page of your blog
+display_tags: ["theorem", "lemma", "corollary", "algorithm", "inequality", "definition", "conjecture"] # these tags will be displayed on the front page of your blog
 display_categories: ["basics", "linalgebra", "numanalysis", "diffeqn", "functanalysis", "mor"] # these categories will be displayed on the front page of your blog
 #
 # -----------------------------------------------------------------------------

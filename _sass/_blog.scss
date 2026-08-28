@@ -1,0 +1,27 @@
+.blog-link {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 0.6rem;
+}
+
+.blog-date {
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  min-width: 6.5rem;
+}
+
+.blog-link a {
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+
+.blog-link a:hover {
+  color: var(--global-theme-color);
+}
+
+.blog-date {
+  color: var(--global-theme-color);
+  font-weight: bold;
+  font-size: 0.9rem;
+  min-width: 6.5rem;
+}

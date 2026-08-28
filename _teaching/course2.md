@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "Numerical Methods for Partial Differential Equations"
-description:
-permalink: /teaching/course2/
 pretty_table: true
-toc:
-  sidebar: left
+code: 102385
+order: 2
 ---
 
 |      University       |                                    Course code                                    | Semester  | Category |         Location          |           Time            |

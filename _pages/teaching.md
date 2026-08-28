@@ -2,12 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description:
 nav: true
 nav_order: 3
 ---
 
-Here you can find the course webpages.
+{% assign courses = site.teaching | where_exp: "course", "course.listed != false" | sort: "order" %}
 
-- [Partial Differential Equations (MATH 358)](/teaching/course1/)
-- [Numerical Methods for Partial Differential Equations (NPDE1)](/teaching/course2/)
+{% for course in courses %}
+  <div class="teaching-link">
+    <span class="course-code">
+      {{ course.code }}
+    </span>
+
+    <a href="{{ course.url | relative_url }}">
+      {{ course.title }}
+    </a>
+  </div>
+{% endfor %}

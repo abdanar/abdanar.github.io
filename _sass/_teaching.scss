@@ -1,0 +1,22 @@
+.teaching-link {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 0.6rem;
+  align-items: baseline;
+}
+
+.course-code {
+  color: var(--global-theme-color);
+  font-weight: bold;
+  font-size: 0.9rem;
+  min-width: 6.5rem;
+}
+
+.teaching-link a {
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+
+.teaching-link a:hover {
+  color: var(--global-theme-color);
+}

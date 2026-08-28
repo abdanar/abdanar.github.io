@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Partial Differential Equations"
-description:
-permalink: /teaching/course1/
 pretty_table: true
 toc:
   sidebar: left
+code: 2360358
+order: 1
 ---
 
 | University |                                 Course code                                  | Semester  |  Category  | Location |            Time             |
