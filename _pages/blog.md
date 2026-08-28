@@ -15,6 +15,7 @@ pagination:
 ---
 
 {% for post in paginator.posts %}
+
   <div class="blog-link">
     <span class="blog-date">
       {{ post.date | date: "%Y-%m-%d" }}
@@ -23,5 +24,6 @@ pagination:
     <a href="{{ post.url | relative_url }}">
       {{ post.title }}
     </a>
+
   </div>
 {% endfor %}

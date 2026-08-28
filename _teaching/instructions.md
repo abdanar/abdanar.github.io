@@ -15,7 +15,7 @@ Before starting the coding tasks in this course, it is important to have a prope
 
 <div style="height: 20px;"></div>
 
-### Step 1: Install Conda
+## Step 1: Install Conda
 
 You have two main options:
 
@@ -26,7 +26,7 @@ You have two main options:
   - Recommended if you want a smaller installation and prefer to install only the packages you need.
   - [Download Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-### Step 2: Open a Conda-enabled terminal
+## Step 2: Open a Conda-enabled terminal
 
 - **Windows:**
   - Use **Anaconda Prompt** (installed with Anaconda/Miniconda).
@@ -48,7 +48,7 @@ You have two main options:
 
 <div style="height: 20px;"></div>
 
-### Step 3: Create a new environment
+## Step 3: Create a new environment
 
 It is highly recommended to create a **separate environment** for this course to avoid conflicts with other projects:
 
@@ -70,7 +70,7 @@ where
 
 <div style="height: 20px;"></div>
 
-### Step 4: Activate the environment
+## Step 4: Activate the environment
 
 After creating your environment, you need to **activate it** before using it. To activate the environment:
 
@@ -80,8 +80,8 @@ conda activate npde_env
 
 After running this command, your terminal prompt will change to something like:
 
-```scss
-(npde_env)c: \Users\YourName>;
+```text
+(npde_env) C:\Users\YourName>
 ```
 
 or on macOS/Linux:
@@ -109,11 +109,11 @@ conda deactivate
 
 The terminal prompt will return to `(base)` or your default system prompt. Deactivating an environment does **not** delete it; it simply stops using it until you activate it again.
 
-### Step 5: Install required packages
+## Step 5: Install required packages
 
 Once your environment `npde_env` is active, you need to install the Python packages required for this course. These packages provide the tools to perform numerical computations, visualizations, and scientific calculations.
 
-#### Install main packages
+### Install main packages
 
 **Option 1: Default Conda channel**
 
@@ -127,7 +127,7 @@ conda install numpy matplotlib scipy
 conda install -c conda-forge numpy matplotlib scipy
 ```
 
-#### Install `triangle` package from GitHub
+### Install `triangle` package from GitHub
 
 The `triangle` package is not on Conda by default, so you can install it directly from its GitHub repository. First, make sure you have `pip` installed in your environment:
 
@@ -152,7 +152,7 @@ This command will download the latest version of `triangle` from GitHub and inst
 
 <div style="height: 20px;"></div>
 
-### Step 6: Verify installation
+## Step 6: Verify installation
 
 After installing the required packages, verify that everything is working correctly. This helps catch any installation or configuration issues early.
 
@@ -222,13 +222,13 @@ or
 ```
 
 - Using a keyboard shortcut:
-  - Windows/Linux: `Ctrl + Z` then press `Enter`
-  - macOS: `Ctrl + D`
+  - Windows: `Ctrl + Z`, then press `Enter`
+  - Linux/macOS: `Ctrl + D`
 
 After quitting, your terminal prompt will return to the Conda environment prompt, e.g.:
 
-```scss
-(npde_env)c: \Users\YourName>;
+```text
+(npde_env) C:\Users\YourName>
 ```
 
 or
@@ -246,9 +246,9 @@ or
 
 <div style="height: 20px;"></div>
 
-### Managing Conda Environments (Optional / Tips)
+## Managing Conda Environments (Optional / Tips)
 
-#### List all Conda environments
+### List all Conda environments
 
 To see all Conda environments on your system and which one is active, run:
 
@@ -291,7 +291,7 @@ This shows:
 - List of installed packages (briefly)
 - Environment locations on your system
 
-#### Switch between environments
+### Switch between environments
 
 To switch from your current environment to another one, use:
 
@@ -307,8 +307,8 @@ conda activate npde_env
 
 Your terminal prompt will change to indicate the active environment:
 
-```scss
-(npde_env)c: \Users\YourName>;
+```text
+(npde_env) C:\Users\YourName>
 ```
 
 or
@@ -325,7 +325,7 @@ conda deactivate
 
 You can chain multiple `deactivate` commands if needed; the prompt will eventually return to `(base)` or your system default.
 
-#### Delete an environment
+### Delete an environment
 
 To remove an environment completely:
 

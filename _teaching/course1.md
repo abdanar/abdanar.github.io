@@ -39,7 +39,7 @@ In these recitation sessions, my primary goal is to help you develop a grasp of 
 ## Week 5
 
 **Exercise Sheet:** Access the exercise sheet here: <a href="https://drive.google.com/file/d/1szptaS1BHu8547IIgBMl-yBID9SUqBab/view?usp=sharing">Link to Exercise Sheet</a>  
-**Answer Key for Recitation 5:** You can find the answer key to the exercise sheet here: <a href="">Link to Answer Key (will be updated)</a>
+**Answer Key for Recitation 5:** Not yet available.
 
 ## Practice Midterm Exam 1
 
@@ -53,7 +53,7 @@ In these recitation sessions, my primary goal is to help you develop a grasp of 
 
 ## Week 7
 
-**Exercise Sheet:** Access the exercise sheet here: <a href="">Link to Exercise Sheet(will be uploaded)</a>
+**Exercise Sheet:** Not yet available.
 
 ## Week 8
 

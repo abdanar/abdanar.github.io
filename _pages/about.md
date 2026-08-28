@@ -7,6 +7,7 @@ subtitle:
 profile:
   align: right
   image: profile_pic.jpg
+  image_alt: Portrait of Anar Abdullayev
   image_circular: false # crops the image to make it circular
 ---
 

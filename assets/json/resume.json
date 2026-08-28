@@ -7,21 +7,7 @@
     "interests": "Computational and Numerical Mathematics",
     "phone": "",
     "url": "https://abdanar.github.io",
-    "summary": "",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": ""
   },
   "education": [
     {
