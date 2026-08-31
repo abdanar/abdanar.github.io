@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-07 08:00:00-0400
+date: 25-07-2025
 inline: true
 related_posts: false
 ---
 
-I have started my graduate studies (Master of Science in Mathematics) at the University of Münster.
+I attended the [SAMM 2025 – 10th GAMM Juniors Summer School: Model Order Reduction](https://www.gamm-juniors.de/summer-school-2025/) in Dresden.

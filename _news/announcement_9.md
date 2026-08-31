@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-16 08:00:00-0400
+date: 10-12-2025
 inline: true
 related_posts: false
 ---
 
-This winter semester, I will be a tutor for the course _Numerical Methods for Partial Differential Equations_ at the University of Münster.
+I was featured in [wissen\|leben](https://www.uni-muenster.de/imperia/md/content/wwu/muz/pdf-ausgaben/wl_12_2025.pdf), the University of Münster newspaper, in its December 2025/January 2026 issue.

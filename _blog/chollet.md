@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Chollet conjecture
-date: 2025-01-6 11:28:00-0400
-tags: "inequality, conjecture"
-categories: "linalgebra"
-related_posts: false
+date: 01-09-2025
 ---
 
 Let $A$ be an $n\times n$ positive semidefinite matrix. Then

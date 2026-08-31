@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-06 08:00:00-0400
+date: 16-09-2025
 inline: true
 related_posts: false
 ---
 
-I have become a recipient of a grant from [Wübben Wissenschaftsstiftung gGmbH](https://www.wuebben-stiftung-wissenschaft.org/program/student-grant).
+This winter semester, I will be a tutor for the course [Numerical Methods for Partial Differential Equations](https://sso.uni-muenster.de/LearnWeb/learnweb2/course/view.php?id=87614) at the University of Münster.
