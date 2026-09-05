@@ -1303,3 +1303,21 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// theme-image for light and dark mode
+.theme-image-dark {
+  display: none;
+}
+
+.theme-image img {
+  width: 100%;
+  height: auto;
+}
+
+html[data-theme="dark"] .theme-image-light {
+  display: none;
+}
+
+html[data-theme="dark"] .theme-image-dark {
+  display: block;
+}
