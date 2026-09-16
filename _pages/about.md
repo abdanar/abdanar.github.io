@@ -11,4 +11,4 @@ profile:
   image_circular: false # crops the image to make it circular
 ---
 
-I am a second-year Master's student in [Mathematics](https://www.uni-muenster.de/MathematicsMuenster/) at [the University of Münster](https://www.uni-muenster.de/en/), specializing in Numerics and Scientific Computing. I completed my undergraduate studies in [Mathematics](https://math.metu.edu.tr/) at [Middle East Technical University](https://www.metu.edu.tr/).
+I am a PhD student in mathematics at the University of Geneva under the supervision of [Prof. Martin J. Gander](https://www.unige.ch/~gander/). I received my Master's degree in mathematics from the University of Münster under the supervision of [Prof. Mario Ohlberger](https://www.uni-muenster.de/AMM/en/ohlberger/team/mario_ohlberger.shtml) and [Dr. Stephan Rave](https://www.uni-muenster.de/AMM/en/ohlberger/team/stephan_rave.shtml). I completed my undergraduate studies in mathematics at Middle East Technical University.
